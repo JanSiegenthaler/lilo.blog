@@ -679,8 +679,6 @@ Mein Name ist Janine Baumann. Ich studiere an der Berner Fachhochschule im Maste
 
 
 > «Wir haben in jeder Weise Einfluss auf die Nachhaltigkeit, also einerseits wieviel CO2 oder andere Treibhausgase wir damit ausstoßen. Andererseits gibt es auch die sozialen Aspekte, die einen Einfluss haben.»
->
->
 
 
 
