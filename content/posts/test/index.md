@@ -4,22 +4,22 @@ date = "2024-03-14"
 draft = false
 pinned = false
 +++
-<!--\[if !mso]>
+<!--\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -59,9 +59,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -640,9 +640,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -669,22 +669,20 @@ w\:* {behavior:url(#default#VML);}
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:shapedefaults v:ext="edit" spidmax="1029"/>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><!\[endif]-->
+ </o:shapelayout></xml><!\\[endif]-->
 
 <!--StartFragment-->
 
 **Im Rahmen des Projekts Muristalden bewegt, habe ich ein Interview mit Janine Baumann, Studentin im Master Circular Innovation and Sustainability an der Berner Fachhochschule, zum Thema Nachhaltigkeit und Kreislaufwirtschaft geführt und darüber diskutiert, wie Kreislaufwirtschaft einen wichtigen Beitrag zur Nachhaltigkeit leistet.**
-
- 
 
 Von Jan Siegenthaler, GYM 2b, Muristalden\
 \
@@ -694,7 +692,7 @@ Wir haben uns via Teams über die Mittagspause getroffen und ein sehr lehrreiche
 
 Mein Name ist Janine Baumann. Ich studiere an der Berner Fachhochschule im Master Circular Innovation and Sustainability, das ist ein Forschungsmaster im Bereich Kreislaufwirtschaft und Nachhaltigkeit und daneben arbeite ich bei Engageability, das ist eine Nachhaltigkeitsberatungsfirma in Zürich.  Die Firma bietet Beratungen und ist ein Think Tank für innovative Nachhaltigkeitsthemen und Future-positive Solutions. Vielleicht kommen wir im späteren Verlauf des Interviews nochmal darauf zu sprechen, damit ich das genauer erklären kann. Wir können uns übrigens gerne duzen.
 
-<!--\[if gte vml 1]><v:shapetype id="_x0000_t202"
+<!--\\[if gte vml 1]><v:shapetype id="_x0000_t202"
  coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe">
  <v:stroke joinstyle="miter"/>
  <v:path gradientshapeok="t" o:connecttype="rect"/>
@@ -780,10 +778,10 @@ UEsBAi0AFAAGAAgAAAAhAJxmRkG7AAAAJAEAACoAAAAAAAAAAAAAAAAASw0AAGNsaXBib2FyZC9k
 cmF3aW5ncy9fcmVscy9kcmF3aW5nMS54bWwucmVsc1BLBQYAAAAABQAFAGcBAABODgAAAAA=
 " filled="f" stroked="f">
  <v:textbox style='mso-fit-shape-to-text:t'>
-  <!\[if !mso]>
+  <!\\[if !mso]>
   <table cellpadding=0 cellspacing=0 width="100%">
    <tr>
-    <td><!\[endif]>
+    <td><!\\[endif]>
     <div>
     <div style='mso-element:para-border-div;border-top:solid black 4.5pt;
     mso-border-top-themecolor:text1;border-left:none;border-bottom:solid #8DD873 2.25pt;
@@ -800,16 +798,16 @@ cmF3aW5ncy9fcmVscy9kcmF3aW5nMS54bWwucmVsc1BLBQYAAAAABQAFAGcBAABODgAAAAA=
     mso-themetint:191'><o:p></o:p></span></i></b></span></p>
     </div>
     </div>
-    <!\[if !mso]></td>
+    <!\\[if !mso]></td>
    </tr>
   </table>
-  <!\[endif]></v:textbox>
+  <!\\[endif]></v:textbox>
  <w:wrap type="square" anchorx="margin"/>
-</v:shape><!\[endif]--><!--\[if !vml]-->![Textfeld: «Wir haben in jeder Weise Einfluss auf die Nachhaltigkeit, also einerseits wieviel CO2 oder andere Treibhausgase wir damit ausstoßen. Andererseits gibt es auch die sozialen Aspekte, die einen Einfluss haben.»](file:///C:/Users/jansi/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)<!--\[endif]-->**Warum genau ist das Thema Nachhaltigkeit und Kreislaufwirtschaft deiner Meinung nach für die gesamte Gesellschaft sehr wichtig?**
+</v:shape><!\\[endif]--><!--\\[if !vml]-->!\[Textfeld: «Wir haben in jeder Weise Einfluss auf die Nachhaltigkeit, also einerseits wieviel CO2 oder andere Treibhausgase wir damit ausstoßen. Andererseits gibt es auch die sozialen Aspekte, die einen Einfluss haben.»](file:///C:/Users/jansi/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)<!--\\[endif]-->\*\*Warum genau ist das Thema Nachhaltigkeit und Kreislaufwirtschaft deiner Meinung nach für die gesamte Gesellschaft sehr wichtig?\*\*
 
 Einerseits, weil jeder Mensch seinen eigenen Fußabdruck auf dieser Welt hinterlässt, und zwar allein in dem, dass wir in unserer Wohnung oder in unserem Haus leben, in dem, dass wir Essen konsumieren, indem, dass wir den Verkehr nutzen, ob das jetzt ein Auto, Flugzeug, Zug oder ein anderes Verkehrsmittel ist. Wir haben in jeder Weise Einfluss auf die Nachhaltigkeit, also einerseits wieviel CO2 oder andere Treibhausgase wir damit ausstoßen. Andererseits gibt es auch die sozialen Aspekte, die einen Einfluss haben, beispielsweise wenn wir ein Smartphone nutzen. Wie geht es den Menschen, die in der Fabrik das iPhone produzieren? Jedes Individuum hat seinen eigenen Einfluss, das ist in diesem Fall der Einfluss von der Person auf die Umwelt. Es gibt durch den Klimawandel allerdings auch immer mehr den Einfluss von der Umwelt auf die einzelnen Personen. Ein Beispiel sind die immer heißer werdenden Sommer und die damit verbundenen Auswirkungen auf ältere Menschen und Schwangere und somit direkten Auswirkungen auf die Gesundheit der Menschen. Wenn wir das Thema global betrachten, finden sich immer mehr Extremwetterereignisse, wie beispielsweise erhebliche Ernteausfälle, katastrophale Überschwemmungen oder extreme Hitzewellen, welche einen starken Einfluss auf die Menschen haben können. Es stellt sich einerseits regional die Frage, welchen Einfluss dies in der Schweiz auf beispielsweise unsere Lebensmittelversorgung hat und dass wir als mögliche Folge vielleicht mehr Ernteausfälle haben werden und es gibt durch diese globalen Auswirkungen auch politische Fragen, die aufkommen. In gewissen Ländern existieren solche Dürren, wo seit Jahren kein Regen mehr fällt und diese Gesellschaft dann dort keinen nachhaltigen Lebensraum mehr hat und dadurch entstehen hohe Migrationswellen. Menschen werden immer mehr wandern aufgrund der Klimakrise, dazu kommt noch die Biodiversitätskrise und das stellt uns als Gesellschaft vor Herausforderungen und damit verbundenem Entscheidungsbedarf, wie wir damit umgehen wollen.
 
-<!--\[if gte vml 1]><v:shape id="_x0000_s1027" type="#_x0000_t202"
+<!--\\[if gte vml 1]><v:shape id="_x0000_s1027" type="#_x0000_t202"
  style='position:absolute;margin-left:0;margin-top:0;width:253.45pt;height:133.75pt;
  z-index:251660288;visibility:visible;mso-wrap-style:square;
  mso-width-percent:550;mso-height-percent:200;mso-wrap-distance-left:9pt;
@@ -892,10 +890,10 @@ ZkZBuwAAACQBAAAqAAAAAAAAAAAAAAAAAHMNAABjbGlwYm9hcmQvZHJhd2luZ3MvX3JlbHMvZHJh
 d2luZzEueG1sLnJlbHNQSwUGAAAAAAUABQBnAQAAdg4AAAAA
 " filled="f" stroked="f">
  <v:textbox style='mso-fit-shape-to-text:t'>
-  <!\[if !mso]>
+  <!\\[if !mso]>
   <table cellpadding=0 cellspacing=0 width="100%">
    <tr>
-    <td><!\[endif]>
+    <td><!\\[endif]>
     <div>
     <div style='mso-element:para-border-div;border-top:solid black 4.5pt;
     mso-border-top-themecolor:text1;border-left:none;border-bottom:solid #8DD873 2.25pt;
@@ -913,12 +911,13 @@ d2luZzEueG1sLnJlbHNQSwUGAAAAAAUABQBnAQAAdg4AAAAA
     107%;color:#404040;mso-themecolor:text1;mso-themetint:191'><o:p></o:p></span></i></b></span></p>
     </div>
     </div>
-    <!\[if !mso]></td>
+    <!\\[if !mso]></td>
    </tr>
   </table>
-  <!\[endif]></v:textbox>
+  <!\\[endif]></v:textbox>
  <w:wrap type="square" anchorx="margin"/>
-</v:shape><!\[endif]--><!--\[if !vml]-->![Textfeld: «Soziale Nachhaltigkeit bedeutet zum Beispiel, dass nicht nur im globalen Norden ein gutes Leben möglich ist, sondern auch im globalen Süden, dabei ist in den globale Lieferketten darauf zu achten, dass die Menschen nicht ausgenützt werden und die Menschenrechte eingehalten werden.»](file:///C:/Users/jansi/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)<!--\[endif]-->**Wie würdest du Nachhaltigkeit und Kreislaufwirtschaft jemandem erklären?**\
+</v:shape><!\\[endif]--><!--\\[if !vml]-->!\[Textfeld: «Soziale Nachhaltigkeit bedeutet zum Beispiel, dass nicht nur im globalen Norden ein gutes Leben möglich ist, sondern auch im globalen Süden, dabei ist in den globale Lieferketten darauf zu achten, dass die Menschen nicht ausgenützt werden und die Menschenrechte eingehalten werden.»](file:///C:/Users/jansi/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)<!--\\[endif]-->\*\*Wie würdest du Nachhaltigkeit und Kreislaufwirtschaft jemandem erklären?\*\*\
+
 \
 Die Definition sagt, dass wir unsere Bedürfnisse decken wollen, ohne andere Personen und auch zukünftige Generationen einzuschränken, ihre eigenen Bedürfnisse zu erfüllen. Das heißt es gibt die 3 Dimensionen, das sind die sozialen, die ökologische und die ökonomische Nachhaltigkeit. Diese Aspekte werden in den Future-positive Solutions berücksichtigt. Das setzt voraus, dass wir sorgsam in unserer Umwelt leben und nicht mehr konsumieren als wir benötigen, damit auch die nächsten Generationen unter gesunden Bedingungen leben können, dies versteht man unter dem Begriff «Planetary Boundaries» die planetaren Grenzen, die zu beachten sind. Soziale Nachhaltigkeit bedeutet zum Beispiel, dass nicht nur im globalen Norden ein gutes Leben möglich ist, sondern auch im globalen Süden, dabei ist in den globale Lieferketten darauf zu achten, dass die Menschen nicht ausgenützt werden, es eine faire Entlöhnung gibt und die Menschenrechte eingehalten werden. Bei der ökologischen Nachhaltigkeit, ist darauf zu achten, dass wir eben nicht zu viel CO2 oder andere Treibhausgase ausstoßen oder beispielsweise unsere Böden übersäuern.  Ökonomische Nachhaltigkeit bedeutet für Unternehmen, dass sie auch finanziell gut aufgebaut sind, so dass sie auf dem Markt bestehen können, denn wenn sie am Ende kein Geld einbringen und die Löhne nicht zahlen können, bringt das soziale und ökologische Engagement auch nichts. Die Kreislaufwirtschaft bezieht sich spezifisch auf den Teil der ökonomischen und ökologischen Nachhaltigkeit. Da geht es darum, dass man möglichst viele Produkte, Rohstoffe und Materialien wiederverwendet, um somit auch Abfall und die Extraktion von natürlichen Ressourcen zu vermeiden oder zu reduzieren.
 
@@ -926,13 +925,9 @@ Die Definition sagt, dass wir unsere Bedürfnisse decken wollen, ohne andere Per
 \
 Mal schauen, was sind die Einflüsse, die ihr als Schule habt? Woher kommt zum Beispiel euer Strom? Habt ihr Solardächer zum Beispiel, oder wird mit Erdgas geheizt. Dann kommen Themen hinzu wie, welche Materialien nutzt ihr in der Schule und wie geht ihr damit um, verschwenderisch oder sparsam? Recycelt ihr oder wiederverwendet ihr möglichst viele Materialien, die ihr benutzt? Es geht da auch um die Ernährung, zum Beispiel habt ihr wahrscheinlich eine Mensa, hier könnte ein Punkt sein, dass diese möglichst auf Nachhaltigkeit achtet. Das heißt möglichst viel pflanzenbasiert kochen und weniger Milch und Fleischprodukte anbietet. Ihr könntet einfach mal schauen, wo die größten Einflüsse sind. Ich glaube die wichtigsten Aspekte, die ihr in der Schule bewegen könnt, sind die, die wir vorhin besprochen haben. Dieses individuelle Bewusstsein und auch wirklich diese Wissensvermittlung aufzubauen. Darüber zu reflektieren, was Nachhaltigkeit heisst. Was heißt das für den eigenen Konsum und wie kann man die Leute mehr dafür sensibilisieren. Welchen Einfluss und welche Möglichkeiten gibt es, die Zukunft in eine nachhaltige Richtung zu verändern. Und ganz wichtig auch, Opportunitäten dazu schaffen und aufzeigen.
 
- 
-
 **Janine, vielen Dank für das lehrreiche Interview.**
 
- 
-
-<!--\[if gte vml 1]><v:shape id="_x0000_s1026" type="#_x0000_t202"
+<!--\\[if gte vml 1]><v:shape id="_x0000_s1026" type="#_x0000_t202"
  style='position:absolute;margin-left:238.1pt;margin-top:.7pt;width:253.1pt;
  height:102.95pt;z-index:251661312;visibility:visible;mso-wrap-style:square;
  mso-width-percent:550;mso-height-percent:200;mso-wrap-distance-left:9pt;
@@ -1015,15 +1010,15 @@ AAAFAAUAZwEAACkOAAAAAA==
 " filled="f" stroked="f">
  <v:textbox style='mso-fit-shape-to-text:t'/>
  <w:wrap anchorx="margin"/>
-</v:shape><!\[endif]--><!--\[if !vml]-->
+</v:shape><!\\[endif]--><!--\\[if !vml]-->
 
-|                                                                                                          |
-| -------------------------------------------------------------------------------------------------------- |
-| <!--\[endif]--><!--\[if !mso]--><!--\[endif]--><!--\[if !mso & !vml]--> <!--\[endif]--><!--\[if !vml]--> |
+|                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------- |
+| <!--\\[endif]--><!--\\[if !mso]--><!--\\[endif]--><!--\\[if !mso & !vml]--> <!--\\[endif]--><!--\\[if !vml]--> |
 
-<!--\[endif]-->
+<!--\\[endif]-->
 
-<!--\[if gte vml 1]><v:shapetype
+<!--\\[if gte vml 1]><v:shapetype
  id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
  path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
  <v:stroke joinstyle="miter"/>
@@ -1048,15 +1043,13 @@ AAAFAAUAZwEAACkOAAAAAA==
  mso-wrap-style:square'>
  <v:imagedata src="file:///C:/Users/jansi/AppData/Local/Temp/msohtmlclip1/01/clip_image003.png"
   o:title="Laura Brechlin"/>
-</v:shape><!\[endif]-->
+</v:shape><!\\[endif]-->
 
-<!--\[if !vml]-->
+<!--\\[if !vml]-->
 
-![Laura Brechlin](file:///C:/Users/jansi/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)
+![Bild: Janine Baumann, Quelle: https://engageability.ch/about-us/#team](janine3-2-200x200.png "Bild: Janine Baumann, Quelle: https://engageability.ch/about-us/#team")
 
-<!--\[endif]-->
+<!--\\[endif]-->
 
 \
-Bild: Janine Baumann, Quelle: https://engageability.ch/about-us/#team
-
 <!--EndFragment-->
