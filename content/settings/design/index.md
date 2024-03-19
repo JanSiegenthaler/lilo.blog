@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
-logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
+icon = "/media/lexmark-blog-de.png"
+logo = "/media/lexmark-blog-de.png"
+image = "/media/lexmark-blog-de.png"
 color = "#5a4ae3"
 +++
