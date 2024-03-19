@@ -678,7 +678,7 @@ Mein Name ist Janine Baumann. Ich studiere an der Berner Fachhochschule im Maste
 
 
 
-> ### ***«Wir haben in jeder Weise Einfluss auf die Nachhaltigkeit, also einerseits wieviel CO2 oder andere Treibhausgase wir damit ausstoßen. Andererseits gibt es auch die sozialen Aspekte, die einen Einfluss haben.»***
+> #### ***«Wir haben in jeder Weise Einfluss auf die Nachhaltigkeit, also einerseits wieviel CO2 oder andere Treibhausgase wir damit ausstoßen. Andererseits gibt es auch die sozialen Aspekte, die einen Einfluss haben.»***
 
 
 
@@ -690,7 +690,11 @@ Einerseits, weil jeder Mensch seinen eigenen Fußabdruck auf dieser Welt hinterl
 \
 Die Definition sagt, dass wir unsere Bedürfnisse decken wollen, ohne andere Personen und auch zukünftige Generationen einzuschränken, ihre eigenen Bedürfnisse zu erfüllen. Das heißt es gibt die 3 Dimensionen, das sind die sozialen, die ökologische und die ökonomische Nachhaltigkeit. Diese Aspekte werden in den Future-positive Solutions berücksichtigt. Das setzt voraus, dass wir sorgsam in unserer Umwelt leben und nicht mehr konsumieren als wir benötigen, damit auch die nächsten Generationen unter gesunden Bedingungen leben können, dies versteht man unter dem Begriff «Planetary Boundaries» die planetaren Grenzen, die zu beachten sind. Soziale Nachhaltigkeit bedeutet zum Beispiel, dass nicht nur im globalen Norden ein gutes Leben möglich ist, sondern auch im globalen Süden, dabei ist in den globale Lieferketten darauf zu achten, dass die Menschen nicht ausgenützt werden, es eine faire Entlöhnung gibt und die Menschenrechte eingehalten werden. Bei der ökologischen Nachhaltigkeit, ist darauf zu achten, dass wir eben nicht zu viel CO2 oder andere Treibhausgase ausstoßen oder beispielsweise unsere Böden übersäuern.  Ökonomische Nachhaltigkeit bedeutet für Unternehmen, dass sie auch finanziell gut aufgebaut sind, so dass sie auf dem Markt bestehen können, denn wenn sie am Ende kein Geld einbringen und die Löhne nicht zahlen können, bringt das soziale und ökologische Engagement auch nichts. Die Kreislaufwirtschaft bezieht sich spezifisch auf den Teil der ökonomischen und ökologischen Nachhaltigkeit. Da geht es darum, dass man möglichst viele Produkte, Rohstoffe und Materialien wiederverwendet, um somit auch Abfall und die Extraktion von natürlichen Ressourcen zu vermeiden oder zu reduzieren.
 
-> ### «Soziale Nachhaltigkeit bedeutet zum Beispiel, dass nicht nur im globalen Norden ein gutes Leben möglich ist, sondern auch im globalen Süden, dabei ist in den globale Lieferketten darauf zu achten, dass die Menschen nicht ausgenützt werden und die Menschenrechte eingehalten werden.»
+
+
+
+
+> #### «Soziale Nachhaltigkeit bedeutet zum Beispiel, dass nicht nur im globalen Norden ein gutes Leben möglich ist, sondern auch im globalen Süden, dabei ist in den globale Lieferketten darauf zu achten, dass die Menschen nicht ausgenützt werden und die Menschenrechte eingehalten werden.»
 
 
 
@@ -701,6 +705,10 @@ Mal schauen, was sind die Einflüsse, die ihr als Schule habt? Woher kommt zum B
  
 
 **Janine, vielen Dank für das lehrreiche Interview.**
+
+
+
+*Janine Baumann, Studentin im Master Circular Innovation and Sustainability an der Berner Fachhochschule und Mitarbeiterin bei Engageability, einer Nachhaltigkeitsberatungsfirma in Zürich.*
 
 <!--EndFragment-->
 
