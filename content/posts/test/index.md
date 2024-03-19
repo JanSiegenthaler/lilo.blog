@@ -694,8 +694,6 @@ Die Definition sagt, dass wir unsere Bedürfnisse decken wollen, ohne andere Per
 
 
 
-> #### «Soziale Nachhaltigkeit bedeutet zum Beispiel, dass nicht nur im globalen Norden ein gutes Leben möglich ist, sondern auch im globalen Süden, dabei ist in den globale Lieferketten darauf zu achten, dass die Menschen nicht ausgenützt werden und die Menschenrechte eingehalten werden.»
-
 
 
 **Welche Punkte könnte zum Beispiel in Bildungsbetrieben wie die Fachhochschule Bern oder in meiner Schule, dem Campus Muristalden, berücksichtigt werden, um im Thema Nachhaltigkeit und Kreislaufwirtschaft fortschrittlicher zu sein?**\
