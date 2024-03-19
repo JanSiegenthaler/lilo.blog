@@ -708,6 +708,8 @@ Mal schauen, was sind die Einflüsse, die ihr als Schule habt? Woher kommt zum B
 
 
 
+
+
 *Janine Baumann, Studentin im Master Circular Innovation and Sustainability an der Berner Fachhochschule und Mitarbeiterin bei Engageability, einer Nachhaltigkeitsberatungsfirma in Zürich.*
 
 <!--EndFragment-->
