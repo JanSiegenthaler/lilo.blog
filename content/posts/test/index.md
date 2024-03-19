@@ -678,7 +678,9 @@ Mein Name ist Janine Baumann. Ich studiere an der Berner Fachhochschule im Maste
 
 
 
-> #### ***«Wir haben in jeder Weise Einfluss auf die Nachhaltigkeit, also einerseits wieviel CO2 oder andere Treibhausgase wir damit ausstoßen. Andererseits gibt es auch die sozialen Aspekte, die einen Einfluss haben.»***
+> «Wir haben in jeder Weise Einfluss auf die Nachhaltigkeit, also einerseits wieviel CO2 oder andere Treibhausgase wir damit ausstoßen. Andererseits gibt es auch die sozialen Aspekte, die einen Einfluss haben.»
+>
+>
 
 
 
@@ -692,7 +694,7 @@ Die Definition sagt, dass wir unsere Bedürfnisse decken wollen, ohne andere Per
 
 
 
-
+> «Soziale Nachhaltigkeit bedeutet zum Beispiel, dass nicht nur im globalen Norden ein gutes Leben möglich ist, sondern auch im globalen Süden, dabei ist in den globale Lieferketten darauf zu achten, dass die Menschen nicht ausgenützt werden und die Menschenrechte eingehalten werden.»
 
 
 
@@ -710,11 +712,9 @@ Mal schauen, was sind die Einflüsse, die ihr als Schule habt? Woher kommt zum B
 
 *Janine Baumann, Studentin im Master Circular Innovation and Sustainability an der Berner Fachhochschule und Mitarbeiterin bei Engageability, einer Nachhaltigkeitsberatungsfirma in Zürich.*
 
-<!--EndFragment-->
+
 
 ![Bild: Janine Baumann, Quelle: https://engageability.ch/about-us/#team](janine3-2-200x200.png "Bild: Janine Baumann, Quelle: https://engageability.ch/about-us/#team")
-
-<!--\\[endif]-->
 
 \
 <!--EndFragment-->
