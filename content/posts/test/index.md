@@ -4,13 +4,13 @@ date = "2024-03-14"
 draft = false
 pinned = false
 +++
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -50,9 +50,9 @@ pinned = false
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -631,9 +631,9 @@ pinned = false
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -660,13 +660,11 @@ pinned = false
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 **Im Rahmen des Projekts Muristalden bewegt, habe ich ein Interview mit Janine Baumann, Studentin im Master Circular Innovation and Sustainability an der Berner Fachhochschule, zum Thema Nachhaltigkeit und Kreislaufwirtschaft geführt und darüber diskutiert, wie Kreislaufwirtschaft einen wichtigen Beitrag zur Nachhaltigkeit leistet.**
-
- 
 
 Von Jan Siegenthaler, GYM 2b, Muristalden\
 \
@@ -678,7 +676,11 @@ Mein Name ist Janine Baumann. Ich studiere an der Berner Fachhochschule im Maste
 
 
 
+
+
 > «Wir haben in jeder Weise Einfluss auf die Nachhaltigkeit, also einerseits wieviel CO2 oder andere Treibhausgase wir damit ausstoßen. Andererseits gibt es auch die sozialen Aspekte, die einen Einfluss haben.»
+
+
 
 
 
@@ -692,7 +694,11 @@ Die Definition sagt, dass wir unsere Bedürfnisse decken wollen, ohne andere Per
 
 
 
+
+
 > «Soziale Nachhaltigkeit bedeutet zum Beispiel, dass nicht nur im globalen Norden ein gutes Leben möglich ist, sondern auch im globalen Süden, dabei ist in den globale Lieferketten darauf zu achten, dass die Menschen nicht ausgenützt werden und die Menschenrechte eingehalten werden.»
+
+
 
 
 
@@ -700,19 +706,12 @@ Die Definition sagt, dass wir unsere Bedürfnisse decken wollen, ohne andere Per
 \
 Mal schauen, was sind die Einflüsse, die ihr als Schule habt? Woher kommt zum Beispiel euer Strom? Habt ihr Solardächer zum Beispiel, oder wird mit Erdgas geheizt. Dann kommen Themen hinzu wie, welche Materialien nutzt ihr in der Schule und wie geht ihr damit um, verschwenderisch oder sparsam? Recycelt ihr oder wiederverwendet ihr möglichst viele Materialien, die ihr benutzt? Es geht da auch um die Ernährung, zum Beispiel habt ihr wahrscheinlich eine Mensa, hier könnte ein Punkt sein, dass diese möglichst auf Nachhaltigkeit achtet. Das heißt möglichst viel pflanzenbasiert kochen und weniger Milch und Fleischprodukte anbietet. Ihr könntet einfach mal schauen, wo die größten Einflüsse sind. Ich glaube die wichtigsten Aspekte, die ihr in der Schule bewegen könnt, sind die, die wir vorhin besprochen haben. Dieses individuelle Bewusstsein und auch wirklich diese Wissensvermittlung aufzubauen. Darüber zu reflektieren, was Nachhaltigkeit heisst. Was heißt das für den eigenen Konsum und wie kann man die Leute mehr dafür sensibilisieren. Welchen Einfluss und welche Möglichkeiten gibt es, die Zukunft in eine nachhaltige Richtung zu verändern. Und ganz wichtig auch, Opportunitäten dazu schaffen und aufzeigen.
 
- 
-
 **Janine, vielen Dank für das lehrreiche Interview.**
-
-
-
-
-
-*Janine Baumann, Studentin im Master Circular Innovation and Sustainability an der Berner Fachhochschule und Mitarbeiterin bei Engageability, einer Nachhaltigkeitsberatungsfirma in Zürich.*
 
 
 
 ![Bild: Janine Baumann, Quelle: https://engageability.ch/about-us/#team](janine3-2-200x200.png "Bild: Janine Baumann, Quelle: https://engageability.ch/about-us/#team")
 
-\
+*Janine Baumann, Studentin im Master Circular Innovation and Sustainability an der Berner Fachhochschule und Mitarbeiterin bei Engageability, einer Nachhaltigkeitsberatungsfirma in Zürich.*
+
 <!--EndFragment-->
