@@ -4,13 +4,13 @@ date = "2024-04-28"
 draft = false
 pinned = false
 +++
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -50,9 +50,9 @@ pinned = false
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -631,9 +631,9 @@ pinned = false
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -660,13 +660,11 @@ pinned = false
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 **Der Klimawandel ist ein sehr aktuelles Thema, das die gesamte globale Gesellschaft stark betrifft. Welche Lösungen braucht es, um dagegen zu steuern und diese Entwicklung zu verlangsamen? Erfahren Sie im folgenden Interview mehr darüber. Im Rahmen des Projekts «Muristalden bewegt» erzählt Janine Baumann, Studentin im Master Circular Innovation and Sustainability an der Berner Fachhochschule, über ihr persönliches Engagement im Bereich Nachhaltigkeit und erklärt die Bedeutung der Kreislaufwirtschaft.**
-
- 
 
 Von Jan Siegenthaler, GYM 2b, Muristalden\
 \
@@ -675,8 +673,6 @@ Aus zeitlichen Gründen findet das Interview über die Mittagspause via Teams st
 **Stellen Sie sich bitte kurz vor, wie ist Ihr Name, was ist Ihre berufliche Tätigkeit und was bewegt Sie zurzeit am meisten?**
 
 Mein Name ist Janine Baumann. Ich studiere an der Berner Fachhochschule im Master Circular Innovation and Sustainability, das ist ein Forschungsmaster im Bereich Kreislaufwirtschaft und Nachhaltigkeit und daneben arbeite ich bei Engageability, das ist eine Nachhaltigkeitsberatungsfirma in Zürich.  Die Firma bietet Beratungen und ist ein Think Tank für innovative Nachhaltigkeitsthemen und Future-positive Solutions. Mich bewegen die Auswirkungen des Klimawandel und ich setze mich beruflich und privat dafür ein, konkrete Lösungen zu finden, um auch nachkommenden Generationen eine bewohnbare Erde zu hinterlassen.
-
- 
 
 > «Soziale Nachhaltigkeit bedeutet, dass nicht nur im globalen Norden ein gutes Leben möglich ist, sondern auch im globalen Süden. In globalen Lieferketten müssen Menschenrechte und faire Arbeitsbedingungen eingehalten werden.»
 
