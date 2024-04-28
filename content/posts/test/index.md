@@ -678,7 +678,7 @@ Mein Name ist Janine Baumann. Ich studiere an der Berner Fachhochschule im Maste
 
  
 
-***«Soziale Nachhaltigkeit bedeutet, dass nicht nur im globalen Norden ein gutes Leben möglich ist, sondern auch im globalen Süden. In globalen Lieferketten müssen Menschenrechte und faire Arbeitsbedingungen eingehalten werden.»***
+> ***«Soziale Nachhaltigkeit bedeutet, dass nicht nur im globalen Norden ein gutes Leben möglich ist, sondern auch im globalen Süden. In globalen Lieferketten müssen Menschenrechte und faire Arbeitsbedingungen eingehalten werden.»***
 
 
 
@@ -708,6 +708,6 @@ Es kommt auf die Einflüsse, die ihr als Schule habt an. Woher kommt euer Strom?
 
 ![Bild: Janine Baumann, Quelle: https://engageability.ch/about-us/#team](janine3-2-200x200.png "Bild: Janine Baumann, Quelle: https://engageability.ch/about-us/#team")
 
-*Janine Baumann, Studentin im Master Circular Innovation and Sustainability an der Berner Fachhochschule und Mitarbeiterin bei Engageability, einer Nachhaltigkeitsberatungsfirma in Zürich.*
+*Janine Baumann, Studentin im Master Circular Innovation and Sustainability an der Berner Fachhochschule und Mitarbeiterin bei Engageability, einer Nachhaltigkeitsberatungsfirma in Zürich. Sie setzt sich beruflich und privat dafür ein, konkretenachhaltige Lösungen für zukünftige Generationen zu finden.*
 
 <!--EndFragment-->
