@@ -678,13 +678,13 @@ Mein Name ist Janine Baumann. Ich studiere an der Berner Fachhochschule im Maste
 
  
 
-> *«Soziale Nachhaltigkeit bedeutet, dass nicht nur im globalen Norden ein gutes Leben möglich ist, sondern auch im globalen Süden. In globalen Lieferketten müssen Menschenrechte und faire Arbeitsbedingungen eingehalten werden.»*
+> «Soziale Nachhaltigkeit bedeutet, dass nicht nur im globalen Norden ein gutes Leben möglich ist, sondern auch im globalen Süden. In globalen Lieferketten müssen Menschenrechte und faire Arbeitsbedingungen eingehalten werden.»
 
 
 
 **Warum ist das Thema Nachhaltigkeit und Kreislaufwirtschaft deiner Meinung nach für die gesamte Gesellschaft sehr wichtig?**
 
-Einerseits, weil jeder Mensch seinen eigenen Fußabdruck auf dieser Welt hinterlässt, und zwar allein indem, dass wir in unserer Wohnung oder in unserem Haus leben, Essen konsumieren oder Verkehrsmittel nutzen. Wir haben in jeder Weise Einfluss auf die Nachhaltigkeit, also einerseits wieviel CO2 oder andere Treibhausgase wir damit ausstoßen. Andererseits gibt es auch die sozialen Aspekte, die einen Einfluss haben. Beispielsweise bei der Nutzung eines Smartphones: ist es uns bewusst, wie es den Menschen in der Fabrik geht, die das iPhone produzieren? Haben sie faire Löhne und wie sind die Arbeitsbedingungen? Jedes Individuum hat seinen eigenen Einfluss auf die Umwelt. Es gibt durch den Klimawandel allerdings auch immer mehr den Einfluss von der Umwelt auf die einzelnen Personen. Wenn wir das Thema global betrachten, finden sich immer mehr Extremwetterereignisse, wie beispielsweise erhebliche Ernteausfälle, katastrophale Überschwemmungen oder extreme Hitzewellen, welche einen starken Einfluss auf die Menschen haben können.$
+Einerseits, weil jeder Mensch seinen eigenen Fußabdruck auf dieser Welt hinterlässt, und zwar allein indem, dass wir in unserer Wohnung oder in unserem Haus leben, Essen konsumieren oder Verkehrsmittel nutzen. Wir haben in jeder Weise Einfluss auf die Nachhaltigkeit, also einerseits wieviel CO2 oder andere Treibhausgase wir damit ausstoßen. Andererseits gibt es auch die sozialen Aspekte, die einen Einfluss haben. Beispielsweise bei der Nutzung eines Smartphones: ist es uns bewusst, wie es den Menschen in der Fabrik geht, die das iPhone produzieren? Haben sie faire Löhne und wie sind die Arbeitsbedingungen? Jedes Individuum hat seinen eigenen Einfluss auf die Umwelt. Es gibt durch den Klimawandel allerdings auch immer mehr den Einfluss von der Umwelt auf die einzelnen Personen. Wenn wir das Thema global betrachten, finden sich immer mehr Extremwetterereignisse, wie beispielsweise erhebliche Ernteausfälle, katastrophale Überschwemmungen oder extreme Hitzewellen, welche einen starken Einfluss auf die Menschen haben können.
 
 **Was könnte das zur Folge haben?**
 
