@@ -1,16 +1,16 @@
 +++
-title = "Interview: Nachhaltigkeit und Kreislaufwirtschaft"
-date = "2024-03-14"
+title = "Nachhaltigkeit und Kreislaufwirtschaft"
+date = "2024-04-28"
 draft = false
 pinned = false
 +++
-<!--\\[if gte mso 9]><xml>
+<!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -50,9 +50,9 @@ pinned = false
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -631,9 +631,9 @@ pinned = false
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -660,55 +660,51 @@ pinned = false
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\[endif]-->
 
 <!--StartFragment-->
 
-**Im Rahmen des Projekts Muristalden bewegt, habe ich ein Interview mit Janine Baumann, Studentin im Master Circular Innovation and Sustainability an der Berner Fachhochschule, zum Thema Nachhaltigkeit und Kreislaufwirtschaft geführt und darüber diskutiert, wie Kreislaufwirtschaft einen wichtigen Beitrag zur Nachhaltigkeit leistet.**
+**Der Klimawandel ist ein sehr aktuelles Thema, das die gesamte globale Gesellschaft stark betrifft. Welche Lösungen braucht es, um dagegen zu steuern und diese Entwicklung zu verlangsamen? Erfahren Sie im folgenden Interview mehr darüber. Im Rahmen des Projekts «Muristalden bewegt» erzählt Janine Baumann, Studentin im Master Circular Innovation and Sustainability an der Berner Fachhochschule, über ihr persönliches Engagement im Bereich Nachhaltigkeit und erklärt die Bedeutung der Kreislaufwirtschaft.**
+
+ 
 
 Von Jan Siegenthaler, GYM 2b, Muristalden\
 \
-Wir haben uns via Teams über die Mittagspause getroffen und ein sehr lehrreiches und angenehmes Gespräch geführt, bei dem ich Janine Baumann meine Fragen zum Thema Nachhaltigkeit und Kreislaufwirtschaft stellen konnte.
+Aus zeitlichen Gründen findet das Interview über die Mittagspause via Teams statt. In diesem sehr lehrreichen und angenehmen Gespräch beantwortet Janine Baumann was sie zum Thema Nachhaltigkeit bewegt.
 
-**Vielen Dank, dass Sie sich heute für unser Interview Zeit genommen haben. Können Sie sich bitte kurz vorstellen, wie ist Ihr Name und was ist Ihre berufliche Tätigkeit.**
+**Stellen Sie sich bitte kurz vor, wie ist Ihr Name, was ist Ihre berufliche Tätigkeit und was bewegt Sie zurzeit am meisten?**
 
-Mein Name ist Janine Baumann. Ich studiere an der Berner Fachhochschule im Master Circular Innovation and Sustainability, das ist ein Forschungsmaster im Bereich Kreislaufwirtschaft und Nachhaltigkeit und daneben arbeite ich bei Engageability, das ist eine Nachhaltigkeitsberatungsfirma in Zürich.  Die Firma bietet Beratungen und ist ein Think Tank für innovative Nachhaltigkeitsthemen und Future-positive Solutions. Vielleicht kommen wir im späteren Verlauf des Interviews nochmal darauf zu sprechen, damit ich das genauer erklären kann. Wir können uns übrigens gerne duzen.
+Mein Name ist Janine Baumann. Ich studiere an der Berner Fachhochschule im Master Circular Innovation and Sustainability, das ist ein Forschungsmaster im Bereich Kreislaufwirtschaft und Nachhaltigkeit und daneben arbeite ich bei Engageability, das ist eine Nachhaltigkeitsberatungsfirma in Zürich.  Die Firma bietet Beratungen und ist ein Think Tank für innovative Nachhaltigkeitsthemen und Future-positive Solutions. Mich bewegen die Auswirkungen des Klimawandel und ich setze mich beruflich und privat dafür ein, konkrete Lösungen zu finden, um auch nachkommenden Generationen eine bewohnbare Erde zu hinterlassen.
 
+ 
 
-
-
-
-> «Wir haben in jeder Weise Einfluss auf die Nachhaltigkeit, also einerseits wieviel CO2 oder andere Treibhausgase wir damit ausstoßen. Andererseits gibt es auch die sozialen Aspekte, die einen Einfluss haben.»
+***«Soziale Nachhaltigkeit bedeutet, dass nicht nur im globalen Norden ein gutes Leben möglich ist, sondern auch im globalen Süden. In globalen Lieferketten müssen Menschenrechte und faire Arbeitsbedingungen eingehalten werden.»***
 
 
 
+**Warum ist das Thema Nachhaltigkeit und Kreislaufwirtschaft deiner Meinung nach für die gesamte Gesellschaft sehr wichtig?**
 
+Einerseits, weil jeder Mensch seinen eigenen Fußabdruck auf dieser Welt hinterlässt, und zwar allein indem, dass wir in unserer Wohnung oder in unserem Haus leben, Essen konsumieren oder Verkehrsmittel nutzen. Wir haben in jeder Weise Einfluss auf die Nachhaltigkeit, also einerseits wieviel CO2 oder andere Treibhausgase wir damit ausstoßen. Andererseits gibt es auch die sozialen Aspekte, die einen Einfluss haben. Beispielsweise bei der Nutzung eines Smartphones: ist es uns bewusst, wie es den Menschen in der Fabrik geht, die das iPhone produzieren? Haben sie faire Löhne und wie sind die Arbeitsbedingungen? Jedes Individuum hat seinen eigenen Einfluss auf die Umwelt. Es gibt durch den Klimawandel allerdings auch immer mehr den Einfluss von der Umwelt auf die einzelnen Personen. Wenn wir das Thema global betrachten, finden sich immer mehr Extremwetterereignisse, wie beispielsweise erhebliche Ernteausfälle, katastrophale Überschwemmungen oder extreme Hitzewellen, welche einen starken Einfluss auf die Menschen haben können.
 
-**Warum genau ist das Thema Nachhaltigkeit und Kreislaufwirtschaft deiner Meinung nach für die gesamte Gesellschaft sehr wichtig?**
+ 
 
-Einerseits, weil jeder Mensch seinen eigenen Fußabdruck auf dieser Welt hinterlässt, und zwar allein in dem, dass wir in unserer Wohnung oder in unserem Haus leben, in dem, dass wir Essen konsumieren, indem, dass wir den Verkehr nutzen, ob das jetzt ein Auto, Flugzeug, Zug oder ein anderes Verkehrsmittel ist. Wir haben in jeder Weise Einfluss auf die Nachhaltigkeit, also einerseits wieviel CO2 oder andere Treibhausgase wir damit ausstoßen. Andererseits gibt es auch die sozialen Aspekte, die einen Einfluss haben, beispielsweise wenn wir ein Smartphone nutzen. Wie geht es den Menschen, die in der Fabrik das iPhone produzieren? Jedes Individuum hat seinen eigenen Einfluss, das ist in diesem Fall der Einfluss von der Person auf die Umwelt. Es gibt durch den Klimawandel allerdings auch immer mehr den Einfluss von der Umwelt auf die einzelnen Personen. Ein Beispiel sind die immer heißer werdenden Sommer und die damit verbundenen Auswirkungen auf ältere Menschen und Schwangere und somit direkten Auswirkungen auf die Gesundheit der Menschen. Wenn wir das Thema global betrachten, finden sich immer mehr Extremwetterereignisse, wie beispielsweise erhebliche Ernteausfälle, katastrophale Überschwemmungen oder extreme Hitzewellen, welche einen starken Einfluss auf die Menschen haben können. Es stellt sich einerseits regional die Frage, welchen Einfluss dies in der Schweiz auf beispielsweise unsere Lebensmittelversorgung hat und dass wir als mögliche Folge vielleicht mehr Ernteausfälle haben werden und es gibt durch diese globalen Auswirkungen auch politische Fragen, die aufkommen. In gewissen Ländern existieren solche Dürren, wo seit Jahren kein Regen mehr fällt und diese Gesellschaft dann dort keinen nachhaltigen Lebensraum mehr hat und dadurch entstehen hohe Migrationswellen. Menschen werden immer mehr wandern aufgrund der Klimakrise, dazu kommt noch die Biodiversitätskrise und das stellt uns als Gesellschaft vor Herausforderungen und damit verbundenem Entscheidungsbedarf, wie wir damit umgehen wollen.
+ 
 
-**Wie würdest du Nachhaltigkeit und Kreislaufwirtschaft jemandem erklären?**\
+ 
+
+**Was könnte das zur Folge haben?**
+
+Es stellt sich regional die Frage, welchen Einfluss dies in der Schweiz beispielsweise auf unsere Lebensmittelversorgung hat und ob wir als mögliche Folge vielleicht mehr Ernteausfälle haben werden. Durch die globalen Auswirkungen gibt es auch politische Fragen, die aufkommen. Global gesehen existieren in gewissen Ländern durch den Ausfall von Niederschlägen bereits solche Dürren, dass die Gesellschaft dort keinen nachhaltigen Lebensraum mehr hat, und dadurch entstehen hohe Migrationswellen. Menschen werden immer mehr wandern aufgrund der Klimakrise, dazu kommt noch die Biodiversitätskrise und das stellt uns als Gesellschaft vor Herausforderungen. Durch neue Umstände braucht es neue Wirtschafts- und Lebensmodelle und mich bewegt es, durch Forschung an Lösungen zu arbeiten.
+
+**Wie erklärst du Nachhaltigkeit und Kreislaufwirtschaft jemandem, der in diesem Thema Laie ist?**\
 \
-Die Definition sagt, dass wir unsere Bedürfnisse decken wollen, ohne andere Personen und auch zukünftige Generationen einzuschränken, ihre eigenen Bedürfnisse zu erfüllen. Das heißt es gibt die 3 Dimensionen, das sind die sozialen, die ökologische und die ökonomische Nachhaltigkeit. Diese Aspekte werden in den Future-positive Solutions berücksichtigt. Das setzt voraus, dass wir sorgsam in unserer Umwelt leben und nicht mehr konsumieren als wir benötigen, damit auch die nächsten Generationen unter gesunden Bedingungen leben können, dies versteht man unter dem Begriff «Planetary Boundaries» die planetaren Grenzen, die zu beachten sind. Soziale Nachhaltigkeit bedeutet zum Beispiel, dass nicht nur im globalen Norden ein gutes Leben möglich ist, sondern auch im globalen Süden, dabei ist in den globale Lieferketten darauf zu achten, dass die Menschen nicht ausgenützt werden, es eine faire Entlöhnung gibt und die Menschenrechte eingehalten werden. Bei der ökologischen Nachhaltigkeit, ist darauf zu achten, dass wir eben nicht zu viel CO2 oder andere Treibhausgase ausstoßen oder beispielsweise unsere Böden übersäuern.  Ökonomische Nachhaltigkeit bedeutet für Unternehmen, dass sie auch finanziell gut aufgebaut sind, so dass sie auf dem Markt bestehen können, denn wenn sie am Ende kein Geld einbringen und die Löhne nicht zahlen können, bringt das soziale und ökologische Engagement auch nichts. Die Kreislaufwirtschaft bezieht sich spezifisch auf den Teil der ökonomischen und ökologischen Nachhaltigkeit. Da geht es darum, dass man möglichst viele Produkte, Rohstoffe und Materialien wiederverwendet, um somit auch Abfall und die Extraktion von natürlichen Ressourcen zu vermeiden oder zu reduzieren.
+Die Definition sagt, dass wir unsere Bedürfnisse decken wollen, ohne andere Personen und auch zukünftige Generationen einzuschränken, ihre eigenen Bedürfnisse zu erfüllen. Es gibt 3 Dimensionen; das sind die soziale, die ökologische und die ökonomische Nachhaltigkeit. Diese Aspekte werden in den Future-positive Solutions berücksichtigt. Das setzt voraus, dass wir sorgsam in unserer Umwelt leben und nicht mehr konsumieren als wir benötigen, damit auch die nächsten Generationen unter gesunden Bedingungen leben können. Soziale Nachhaltigkeit bedeutet, dass nicht nur im globalen Norden ein gutes Leben möglich ist, sondern auch im globalen Süden. In globalen Lieferketten müssen Menschenrechte und faire Arbeitsbedingungen eingehalten werden. Beider ökologischen Nachhaltigkeit, ist darauf zu achten, dass nicht zu viel CO2 oder andere Treibhausgase ausgestoßen werden oder Böden übersäuern. Ökonomische Nachhaltigkeit bedeutet für Unternehmen, dass sie auch finanziell gut aufgebaut sind, so dass sie auf dem Markt bestehen können, um die Löhne zahlen zu können. Die Kreislaufwirtschaft bezieht sich spezifisch auf den Teil der ökonomischen und ökologischen Nachhaltigkeit. Da geht es darum, dass man möglichst viele Produkte, Rohstoffe und Materialien wiederverwendet, um somit auch Abfall und die Extraktion von natürlichen Ressourcen zu vermeiden oder zu reduzieren.
 
-
-
-
-
-> «Soziale Nachhaltigkeit bedeutet zum Beispiel, dass nicht nur im globalen Norden ein gutes Leben möglich ist, sondern auch im globalen Süden, dabei ist in den globale Lieferketten darauf zu achten, dass die Menschen nicht ausgenützt werden und die Menschenrechte eingehalten werden.»
-
-
-
-
-
-**Welche Punkte könnte zum Beispiel in Bildungsbetrieben wie die Fachhochschule Bern oder in meiner Schule, dem Campus Muristalden, berücksichtigt werden, um im Thema Nachhaltigkeit und Kreislaufwirtschaft fortschrittlicher zu sein?**\
+**Welche Punkte könnte zum Beispiel in Bildungsbetrieben wie in der Fachhochschule Bern oder in meiner Schule, dem Campus Muristalden, berücksichtigt werden, um im Thema Nachhaltigkeit und Kreislaufwirtschaft fortschrittlicher zu sein?**\
 \
-Mal schauen, was sind die Einflüsse, die ihr als Schule habt? Woher kommt zum Beispiel euer Strom? Habt ihr Solardächer zum Beispiel, oder wird mit Erdgas geheizt. Dann kommen Themen hinzu wie, welche Materialien nutzt ihr in der Schule und wie geht ihr damit um, verschwenderisch oder sparsam? Recycelt ihr oder wiederverwendet ihr möglichst viele Materialien, die ihr benutzt? Es geht da auch um die Ernährung, zum Beispiel habt ihr wahrscheinlich eine Mensa, hier könnte ein Punkt sein, dass diese möglichst auf Nachhaltigkeit achtet. Das heißt möglichst viel pflanzenbasiert kochen und weniger Milch und Fleischprodukte anbietet. Ihr könntet einfach mal schauen, wo die größten Einflüsse sind. Ich glaube die wichtigsten Aspekte, die ihr in der Schule bewegen könnt, sind die, die wir vorhin besprochen haben. Dieses individuelle Bewusstsein und auch wirklich diese Wissensvermittlung aufzubauen. Darüber zu reflektieren, was Nachhaltigkeit heisst. Was heißt das für den eigenen Konsum und wie kann man die Leute mehr dafür sensibilisieren. Welchen Einfluss und welche Möglichkeiten gibt es, die Zukunft in eine nachhaltige Richtung zu verändern. Und ganz wichtig auch, Opportunitäten dazu schaffen und aufzeigen.
+Es kommt auf die Einflüsse, die ihr als Schule habt an. Woher kommt euer Strom? Habt ihr Solardächer oder wird mit Erdgas geheizt. Weiter kommen Themen hinzu wie, welche Materialien nutzt ihr in der Schule und wie geht ihr damit um, verschwenderisch oder sparsam? Recycelt ihr oder wiederverwendet ihr möglichst viele Materialien, die ihr benutzt? Es geht da auch um die Ernährung. Falls ihr eine Mensa habt, könnte ein Punkt sein, dass diese möglichst auf Nachhaltigkeit achtet. Das heißt möglichst viel pflanzenbasiert kochen und weniger Milch und Fleischprodukte anbietet. Ich glaube am wichtigsten ist das individuelle Bewusstsein und die Wissensvermittlung im Bereich Nachhaltigkeit. Darüber zu reflektieren, was Nachhaltigkeit heisst. Welchen Einfluss und welche Möglichkeiten es gibt, die Zukunft in eine nachhaltige Richtung zu verändern. Und ganz wichtig auch, Opportunitäten zu schaffen und aufzeigen.
 
-**Janine, vielen Dank für das lehrreiche Interview.**
-
-
+<!--EndFragment-->
 
 ![Bild: Janine Baumann, Quelle: https://engageability.ch/about-us/#team](janine3-2-200x200.png "Bild: Janine Baumann, Quelle: https://engageability.ch/about-us/#team")
 
