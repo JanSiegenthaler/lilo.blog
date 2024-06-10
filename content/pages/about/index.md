@@ -4,7 +4,7 @@ draft = false
 image = "jan1.jpg"
 description = ""
 +++
-![](/img/default-author.jpg)
+![](jan1.jpg)
 
 ## Jan Siegenthaler
 
