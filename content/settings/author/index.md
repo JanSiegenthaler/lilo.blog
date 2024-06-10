@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Jan Siegenthaler"
-image = "/img/default-author.jpg"
+image = "/media/jan1.jpg"
 url = "/about/"
 +++
