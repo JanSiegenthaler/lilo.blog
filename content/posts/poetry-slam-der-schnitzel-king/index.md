@@ -5,39 +5,39 @@ draft = false
 pinned = false
 image = "king-eating-a-wiener-schnitzel-with-a-big-smile-s.jpg"
 +++
-Ig schiäbä mir mis Schnitzel i mi mund 
+Ig schiäbä mir mis Schnitzel i mi Mund 
 
-alli sägä es sigi ungsund 
+alli sägä es sigi ungsund!
 
-aber ig has gärn 
+Aber ig has gärn 
 
-auso rammig mirs i mi Schlund
+auso rammig mirs i mi Schlund.
 
-d fettlibigkeit ligt no färn.
+D Fettlibigkeit ligt no färn
 
-So dänkä hützutags vili lüt 
+so dänkä hützutags vili lüt 
 
-us soeirä Philosophie wird uf t Längi abr nüt
+us so eirä Philosophie wird uf d Längi abr nüt
 
-Wöu eines Tages houts sä ii 
+Wüu eines Tages houts sä ii 
 
-u das wärs denär mit Gsundheit gsi
+u das wärs de när mit Gsundheit gsi
 
-obwohl si gester no vou derbi si gsi 
+obwohl si Geschter no vou derbi si gsi 
 
 luägä si hütt numme so happy dri.
 
-Mä chönnti sägä diabetis isch aller Mans Bösewicht 
+Mä chönnti sägä Diabetis isch aller Manns Bösewicht 
 
-aber augrund fo sim fählendä Gsicht
+aber ugrund fo sim fählendä Gsicht
 
-erkennä mir t Gefahr nicht.
+erkennä mir d Gefahr nicht.
 
-so geitz fasch allmä lüt 
+so geitz fasch aunä Lüt 
 
-mir gäbä zweni acht 
+mir gäbä zweni Acht 
 
-dänki mir u frissä weiter als wär mis erstä znacht
+dänki mir u frissä witer als wär mis erschtä Znacht.
 
 dirbi ischs scho mis drittä 
 
@@ -45,34 +45,34 @@ ha vorhär scho zwöi gha,
 
 ig bi vou am verdickä 
 
-jedä Tg nadis nah.
+jedä Tag nadis nah.
 
-Si paar Jähli vergangä 
+Si paar Jährli vergangä 
 
 u ig cha mi chum erkennä,
 
-gli bi ou ig grannä 
+gli bi ou ig drannä 
 
-aber ig merkes ni ig bi am penä.
+aber ig merkes ni ig bi am pennä.
 
 Fähler machä isch kes Ding 
 
 sä zuägä aber scho,
 
-dürs wägschiäbä bisch ke King 
+dürs Wägschiäbä bisch ke King 
 
 es mues ä Vernunft härä cho.
 
 Äs Mass fürs bigä 
 
-Secklä, Schwümmä oder Bärgstigä
+Secklä, Schwümmä oder Bärgschtigä
 
-so cumi zum Entschluss 
+so chumi zum Entschluss 
 
-Schnitzel frässe isch kes muss
+Schnitzel frässe isch kes Muss.
 
 Üsi Gschicht het nur ei Moraal:
 
-Issisch 3 Schnitzel am nä abä chotzisch Strahl.
+Issisch 3 Schnitzel am nä Abä chotzisch Strahl.
 
 Dankä viu mahl.
