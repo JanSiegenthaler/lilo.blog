@@ -10,4 +10,4 @@ description = ""
 
 jan.siegenthaler@stud.muristalden.ch
 
-Here should be some info about me...
+Student =)
