@@ -4,13 +4,13 @@ date = "2024-06-10"
 draft = false
 pinned = false
 +++
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -50,9 +50,9 @@ pinned = false
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -631,9 +631,9 @@ pinned = false
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -660,7 +660,7 @@ pinned = false
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -676,39 +676,39 @@ Die Beratungsfirma engageability unterstützt Firmen, Regierungsorganisationen, 
 
 *Die folgenden Ziele wurden von der Uno für die Agenda 2030 verabschiedet:*
 
-<!--\[if !supportLists]-->*1.*        <!--\[endif]-->*Es soll nirgendwo strukturelle Armut herrschen.*
+<!--\\[if !supportLists]-->\*1.\*        <!--\\[endif]-->\*Es soll nirgendwo strukturelle Armut herrschen.\*
 
-<!--\[if !supportLists]-->*2.*        <!--\[endif]-->*Es soll nirgendwo auf der Welt Menschen und Völker geben, die unter Hunger leiden.*
+<!--\\[if !supportLists]-->\*2.\*        <!--\\[endif]-->\*Es soll nirgendwo auf der Welt Menschen und Völker geben, die unter Hunger leiden.\*
 
-<!--\[if !supportLists]-->*3.*        <!--\[endif]-->*Gesundheit und Wohlergehen soll ein Gut sein, worauf alle Menschen ein Recht haben.*
+<!--\\[if !supportLists]-->\*3.\*        <!--\\[endif]-->\*Gesundheit und Wohlergehen soll ein Gut sein, worauf alle Menschen ein Recht haben.\*
 
-<!--\[if !supportLists]-->*4.*        <!--\[endif]-->*Hochwertige Bildung soll für alle Menschen auf der Welt zugänglich sein.*
+<!--\\[if !supportLists]-->\*4.\*        <!--\\[endif]-->\*Hochwertige Bildung soll für alle Menschen auf der Welt zugänglich sein.\*
 
-<!--\[if !supportLists]-->*5.*        <!--\[endif]-->*Geschlechtergleichheit soll überall auf der Welt gelten.*
+<!--\\[if !supportLists]-->\*5.\*        <!--\\[endif]-->\*Geschlechtergleichheit soll überall auf der Welt gelten.\*
 
-<!--\[if !supportLists]-->*6.*        <!--\[endif]-->*Jeder Mensch soll Zugang zu Sauberem Grundwasser und zu sauberen Sanitäranlagen haben.*
+<!--\\[if !supportLists]-->\*6.\*        <!--\\[endif]-->\*Jeder Mensch soll Zugang zu Sauberem Grundwasser und zu sauberen Sanitäranlagen haben.\*
 
-<!--\[if !supportLists]-->*7.*        <!--\[endif]-->*Saubere Energie soll für alle Menschen bezahlbar sein.*
+<!--\\[if !supportLists]-->\*7.\*        <!--\\[endif]-->\*Saubere Energie soll für alle Menschen bezahlbar sein.\*
 
-<!--\[if !supportLists]-->*8.*        <!--\[endif]-->*Menschenwürdige Arbeit und Wirtschaftswachstum soll für jeden Menschen und in allen Regionen auf der Welt umsetzbar sein.*
+<!--\\[if !supportLists]-->\*8.\*        <!--\\[endif]-->\*Menschenwürdige Arbeit und Wirtschaftswachstum soll für jeden Menschen und in allen Regionen auf der Welt umsetzbar sein.\*
 
-<!--\[if !supportLists]-->*9.*        <!--\[endif]-->*Industrie, Innovation und Infrastruktur sollen auf Nachhaltigkeit ausgerichtet sein.*
+<!--\\[if !supportLists]-->\*9.\*        <!--\\[endif]-->\*Industrie, Innovation und Infrastruktur sollen auf Nachhaltigkeit ausgerichtet sein.\*
 
-<!--\[if !supportLists]-->*10.*   <!--\[endif]-->*Es soll global weniger Ungleichheit geben.*
+<!--\\[if !supportLists]-->\*10.\*   <!--\\[endif]-->\*Es soll global weniger Ungleichheit geben.\*
 
-<!--\[if !supportLists]-->*11.*   <!--\[endif]-->*Es sollen nachhaltige Städte und Gemeinden gebaut werden.*
+<!--\\[if !supportLists]-->\*11.\*   <!--\\[endif]-->\*Es sollen nachhaltige Städte und Gemeinden gebaut werden.\*
 
-<!--\[if !supportLists]-->*12.*   <!--\[endif]-->*Verantwortungsvolle Konsum- und Produktionsmuster*
+<!--\\[if !supportLists]-->\*12.\*   <!--\\[endif]-->\*Verantwortungsvolle Konsum- und Produktionsmuster\*
 
-<!--\[if !supportLists]-->*13.*   <!--\[endif]-->*Die Massnahmen zum Klimaschutz sind bindend und kontinuierlich umzusetzen.*
+<!--\\[if !supportLists]-->\*13.\*   <!--\\[endif]-->\*Die Massnahmen zum Klimaschutz sind bindend und kontinuierlich umzusetzen.\*
 
-<!--\[if !supportLists]-->*14.*   <!--\[endif]-->*Das Leben unter Wasser soll nachhaltig geschützt werden.*
+<!--\\[if !supportLists]-->\*14.\*   <!--\\[endif]-->\*Das Leben unter Wasser soll nachhaltig geschützt werden.\*
 
-<!--\[if !supportLists]-->*15.*   <!--\[endif]-->*Das Leben an Land soll nachhaltig geschützt werden.*
+<!--\\[if !supportLists]-->\*15.\*   <!--\\[endif]-->\*Das Leben an Land soll nachhaltig geschützt werden.\*
 
-<!--\[if !supportLists]-->*16.*   <!--\[endif]-->*Frieden, Gerechtigkeit und starke Institutionen sollen langfristig aufgebaut werden.*
+<!--\\[if !supportLists]-->\*16.\*   <!--\\[endif]-->\*Frieden, Gerechtigkeit und starke Institutionen sollen langfristig aufgebaut werden.\*
 
-<!--\[if !supportLists]-->*17.*   <!--\[endif]-->*Es sollen Globale Partnerschaften zur Erreichung der Ziele aufgebaut werden.*
+<!--\\[if !supportLists]-->\*17.\*   <!--\\[endif]-->\*Es sollen Globale Partnerschaften zur Erreichung der Ziele aufgebaut werden.\*
 
 «Als lebenswert wird bezeichnet, wenn ökologische und soziale Grundlagen erfüllt sind.\
 Als lebensfähig wird bezeichnet, wenn ökologische und ökonomische Grundlagen erfüllt sind.\
@@ -725,10 +725,6 @@ Das Ziel in der Ökonomie ist das langfristige Fortbestehen einer Wirtschaft, di
 **Soziales**
 
 Die Sozialen Ziele verlangen einen verantwortungsvollen Umgang gegenüber allen Menschen durch Chancengleichheit und Gleichberechtigung, durch die Befriedigung der Grundbedürfnisse, durch das Recht auf Bildung und durch die Schaffung von fairen Arbeitsplätzen. Ausserdem soll der Zugang zu medizinischer Versorgung für alle Menschen gewährleistet sein. Die sozialen Ziele verlangen die Bekämpfung von Armut, damit der Wohlstand global gerecht verteilt wird sowie eine finanzielle Absicherung für Ältere und Kranke. Als Europäer wird mir hier erneut bewusst, dass unsere Sicherheit und unser Wohlstand keine Selbstverständlichkeit sind.
-
-
-
-
 
 **Kreislaufwirtschaft**
 
@@ -750,6 +746,8 @@ Mir wird bewusst, dass nicht nur eine einzelne Firma, sondern viele Firmen und I
 \
 Auf dem Rückweg erinnere ich mich nochmals an unser lehrreiches und inspirierendes Gespräch; es war eine sehr freundliche und offene Gesprächsatmosphäre. Extreme Hitzewellen, Überschwemmung, Gletscherschmelzen, grossflächige Waldbrände, Dürren; sind Themen, die unsere gesamte Gesellschaft betreffen und mit denen wir uns ohne zeitlichen Verzug auseinandersetzen müssen. Die Tatsache, dass es bereits jetzt viele konkrete Massnahmen und viele innovative Lösungen gibt, stimmt mich zuversichtlich. Mit Forschung, Gesetzgebung, Technologie und dem Willen der Gesellschaft, diesen Wandel gemeinsam zu meistern, erkenne ich praktische Lösungen, die dazu führen können, dass auch künftige Generationen auf diesem Planeten unter gesunden Bedingungen leben können.
 
-![Bild: Janine Baumann, Quelle: https://engageability.ch/about-us/#team](janine-baumann.png "Janine Baumann, Studentin im Master Circular Innovation and Sustainability an der Berner Fachhochschule und Mitarbeiterin bei Engageability, einer Nachhaltigkeitsberatungsfirma in Zürich. Sie setzt sich beruflich und privat dafür ein, konkrete nachhaltige Lösungen für zukünftige Generationen zu finden.")
+![Bild: Janine Baumann, Quelle: https://engageability.ch/about-us/#team](janine-baumann.png "Bild: Janine Baumann, Quelle: https://engageability.ch/about-us/#team")
+
+Janine Baumann, Studentin im Master Circular Innovation and Sustainability an der Berner Fachhochschule und Mitarbeiterin bei Engageability, einer Nachhaltigkeitsberatungsfirma in Zürich. Sie setzt sich beruflich und privat dafür ein, konkrete nachhaltige Lösungen für zukünftige Generationen zu finden.
 
 <!--EndFragment-->
