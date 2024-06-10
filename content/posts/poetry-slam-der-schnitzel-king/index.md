@@ -3,6 +3,7 @@ title = "Poetry Slam: Der Schnitzel King"
 date = "2024-06-06"
 draft = false
 pinned = false
+image = "king-eating-a-wiener-schnitzel-with-a-big-smile-s.jpg"
 +++
 Ig schiäbä mir mis Schnitzel i mi mund 
 
