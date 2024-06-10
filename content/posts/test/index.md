@@ -5,13 +5,13 @@ draft = false
 pinned = false
 image = "csm_regenwald-amazonas-ww2134856-c-luis-barreto-wwf-uk_59740a3515.jpg"
 +++
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ image = "csm_regenwald-amazonas-ww2134856-c-luis-barreto-wwf-uk_59740a3515.jpg"
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -632,9 +632,9 @@ image = "csm_regenwald-amazonas-ww2134856-c-luis-barreto-wwf-uk_59740a3515.jpg"
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -661,7 +661,7 @@ image = "csm_regenwald-amazonas-ww2134856-c-luis-barreto-wwf-uk_59740a3515.jpg"
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -676,8 +676,6 @@ Aus zeitlichen Gründen findet das Interview über die Mittagspause via Teams st
 Mein Name ist Janine Baumann. Ich studiere an der Berner Fachhochschule im Master Circular Innovation and Sustainability, das ist ein Forschungsmaster im Bereich Kreislaufwirtschaft und Nachhaltigkeit und daneben arbeite ich bei Engageability, das ist eine Nachhaltigkeitsberatungsfirma in Zürich.  Die Firma bietet Beratungen und ist ein Think Tank für innovative Nachhaltigkeitsthemen und Future-positive Solutions. Mich bewegen die Auswirkungen des Klimawandel und ich setze mich beruflich und privat dafür ein, konkrete Lösungen zu finden, um auch nachkommenden Generationen eine bewohnbare Erde zu hinterlassen.
 
 > «Soziale Nachhaltigkeit bedeutet, dass nicht nur im globalen Norden ein gutes Leben möglich ist, sondern auch im globalen Süden. In globalen Lieferketten müssen Menschenrechte und faire Arbeitsbedingungen eingehalten werden.»
-
-
 
 **Warum ist das Thema Nachhaltigkeit und Kreislaufwirtschaft deiner Meinung nach für die gesamte Gesellschaft sehr wichtig?**
 
@@ -697,7 +695,7 @@ Es kommt auf die Einflüsse, die ihr als Schule habt an. Woher kommt euer Strom?
 
 <!--EndFragment-->
 
-![Bild: Janine Baumann, Quelle: https://engageability.ch/about-us/#team](janine3-2-200x200.png "Bild: Janine Baumann, Quelle: https://engageability.ch/about-us/#team")
+![Bild: Janine Baumann, Quelle: https://engageability.ch/about-us/#team](janine-baumann.png "Bild: Janine Baumann, Quelle: https://engageability.ch/about-us/#team")
 
 *Janine Baumann, Studentin im Master Circular Innovation and Sustainability an der Berner Fachhochschule und Mitarbeiterin bei Engageability, einer Nachhaltigkeitsberatungsfirma in Zürich. Sie setzt sich beruflich und privat dafür ein, konkretenachhaltige Lösungen für zukünftige Generationen zu finden.*
 
