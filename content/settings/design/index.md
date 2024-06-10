@@ -1,6 +1,6 @@
 +++
 headless = true
-logo = "/media/download.jpg"
-image = "/media/download.jpg"
+logo = ""
+image = ""
 color = "#5a4ae3"
 +++
