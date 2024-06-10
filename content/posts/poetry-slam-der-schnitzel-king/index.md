@@ -7,15 +7,13 @@ image = "king-eating-a-wiener-schnitzel-with-a-big-smile-s.jpg"
 +++
 Ig schiäbä mir mis Schnitzel i mi mund 
 
-alli sägä es sigi ungund 
+alli sägä es sigi ungsund 
 
 aber ig has gärn 
 
 auso rammig mirs i mi Schlund
 
 d fettlibigkeit ligt no färn.
-
-
 
 So dänkä hützutags vili lüt 
 
@@ -35,10 +33,6 @@ aber augrund fo sim fählendä Gsicht
 
 erkennä mir t Gefahr nicht.
 
-
-
-
-
 so geitz fasch allmä lüt 
 
 mir gäbä zweni acht 
@@ -53,8 +47,6 @@ ig bi vou am verdickä
 
 jedä Tg nadis nah.
 
-
-
 Si paar Jähli vergangä 
 
 u ig cha mi chum erkennä,
@@ -63,8 +55,6 @@ gli bi ou ig grannä
 
 aber ig merkes ni ig bi am penä.
 
-
-
 Fähler machä isch kes Ding 
 
 sä zuägä aber scho,
@@ -72,8 +62,6 @@ sä zuägä aber scho,
 dürs wägschiäbä bisch ke King 
 
 es mues ä Vernunft härä cho.
-
-
 
 Äs Mass fürs bigä 
 
