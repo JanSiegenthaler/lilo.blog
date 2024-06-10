@@ -4,13 +4,13 @@ date = "2024-06-10"
 draft = false
 pinned = false
 +++
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -50,9 +50,9 @@ pinned = false
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -631,9 +631,9 @@ pinned = false
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -660,11 +660,13 @@ pinned = false
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
-**Extreme Hitzewellen, Überschwemmung, Gletscherschmelzen, grossflächige Waldbrände, Dürren; diese Schlagwörter schiessen durch meinen Kopf, währenddessen ich die Treppen zu den Büroräumlichkeiten der Nachhaltigkeits-Beratungsfirma engageability hochsteige.** Die Firma engageability sich mitten in Zürich, etwas oberhalb vom Niederdorf, unmittelbar neben dem Kunsthaus befindet. Die weisse Fassade dieses Gebäudes scheint von aussen eher unscheinbar, nicht wie ein typisches Bürogebäude, sondern eher wie ein Wohnhaus mit seinen Fensterläden und einem kleinen Balkon. Im Quartier herrscht eine kreative und künstlerische Stimmung, engageability hätte ihren Standort nicht besser wählen können. An diesem verregneten Tag zieht es mich rasch wieder ins Trockene, heute bin ich hergekommen, um mir ein Bild vor Ort zu machen. Diesen Abstecher zu engageability verbinde ich mit einem Ausflug nach Zürich.
+**Extreme Hitzewellen, Überschwemmung, Gletscherschmelzen, grossflächige Waldbrände, Dürren; diese Schlagwörter schiessen durch meinen Kopf, währenddessen ich die Treppen zu den Büroräumlichkeiten der Nachhaltigkeits-Beratungsfirma engageability hochsteige.**
+
+ Die Firma engageability sich mitten in Zürich, etwas oberhalb vom Niederdorf, unmittelbar neben dem Kunsthaus befindet. Die weisse Fassade dieses Gebäudes scheint von aussen eher unscheinbar, nicht wie ein typisches Bürogebäude, sondern eher wie ein Wohnhaus mit seinen Fensterläden und einem kleinen Balkon. Im Quartier herrscht eine kreative und künstlerische Stimmung, engageability hätte ihren Standort nicht besser wählen können. An diesem verregneten Tag zieht es mich rasch wieder ins Trockene, heute bin ich hergekommen, um mir ein Bild vor Ort zu machen. Diesen Abstecher zu engageability verbinde ich mit einem Ausflug nach Zürich.
 
 **Die Tätigkeit von engageability**
 
@@ -676,39 +678,39 @@ Die Beratungsfirma engageability unterstützt Firmen, Regierungsorganisationen, 
 
 *Die folgenden Ziele wurden von der Uno für die Agenda 2030 verabschiedet:*
 
-<!--\\[if !supportLists]-->\*1.\*        <!--\\[endif]-->\*Es soll nirgendwo strukturelle Armut herrschen.\*
+1. Es soll nirgendwo strukturelle Armut herrschen.
 
-<!--\\[if !supportLists]-->\*2.\*        <!--\\[endif]-->\*Es soll nirgendwo auf der Welt Menschen und Völker geben, die unter Hunger leiden.\*
+2. Es soll nirgendwo auf der Welt Menschen und Völker geben, die unter Hunger leiden.
 
-<!--\\[if !supportLists]-->\*3.\*        <!--\\[endif]-->\*Gesundheit und Wohlergehen soll ein Gut sein, worauf alle Menschen ein Recht haben.\*
+3. Gesundheit und Wohlergehen soll ein Gut sein, worauf alle Menschen ein Recht haben.
 
-<!--\\[if !supportLists]-->\*4.\*        <!--\\[endif]-->\*Hochwertige Bildung soll für alle Menschen auf der Welt zugänglich sein.\*
+<!--\\\[if !supportLists]-->\\*4.\\*        <!--\\\[endif]-->\\*Hochwertige Bildung soll für alle Menschen auf der Welt zugänglich sein.\\*
 
-<!--\\[if !supportLists]-->\*5.\*        <!--\\[endif]-->\*Geschlechtergleichheit soll überall auf der Welt gelten.\*
+<!--\\\[if !supportLists]-->\\*5.\\*        <!--\\\[endif]-->\\*Geschlechtergleichheit soll überall auf der Welt gelten.\\*
 
-<!--\\[if !supportLists]-->\*6.\*        <!--\\[endif]-->\*Jeder Mensch soll Zugang zu Sauberem Grundwasser und zu sauberen Sanitäranlagen haben.\*
+<!--\\\[if !supportLists]-->\\*6.\\*        <!--\\\[endif]-->\\*Jeder Mensch soll Zugang zu Sauberem Grundwasser und zu sauberen Sanitäranlagen haben.\\*
 
-<!--\\[if !supportLists]-->\*7.\*        <!--\\[endif]-->\*Saubere Energie soll für alle Menschen bezahlbar sein.\*
+<!--\\\[if !supportLists]-->\\*7.\\*        <!--\\\[endif]-->\\*Saubere Energie soll für alle Menschen bezahlbar sein.\\*
 
-<!--\\[if !supportLists]-->\*8.\*        <!--\\[endif]-->\*Menschenwürdige Arbeit und Wirtschaftswachstum soll für jeden Menschen und in allen Regionen auf der Welt umsetzbar sein.\*
+<!--\\\[if !supportLists]-->\\*8.\\*        <!--\\\[endif]-->\\*Menschenwürdige Arbeit und Wirtschaftswachstum soll für jeden Menschen und in allen Regionen auf der Welt umsetzbar sein.\\*
 
-<!--\\[if !supportLists]-->\*9.\*        <!--\\[endif]-->\*Industrie, Innovation und Infrastruktur sollen auf Nachhaltigkeit ausgerichtet sein.\*
+<!--\\\[if !supportLists]-->\\*9.\\*        <!--\\\[endif]-->\\*Industrie, Innovation und Infrastruktur sollen auf Nachhaltigkeit ausgerichtet sein.\\*
 
-<!--\\[if !supportLists]-->\*10.\*   <!--\\[endif]-->\*Es soll global weniger Ungleichheit geben.\*
+<!--\\\[if !supportLists]-->\\*10.\\*   <!--\\\[endif]-->\\*Es soll global weniger Ungleichheit geben.\\*
 
-<!--\\[if !supportLists]-->\*11.\*   <!--\\[endif]-->\*Es sollen nachhaltige Städte und Gemeinden gebaut werden.\*
+<!--\\\[if !supportLists]-->\\*11.\\*   <!--\\\[endif]-->\\*Es sollen nachhaltige Städte und Gemeinden gebaut werden.\\*
 
-<!--\\[if !supportLists]-->\*12.\*   <!--\\[endif]-->\*Verantwortungsvolle Konsum- und Produktionsmuster\*
+<!--\\\[if !supportLists]-->\\*12.\\*   <!--\\\[endif]-->\\*Verantwortungsvolle Konsum- und Produktionsmuster\\*
 
-<!--\\[if !supportLists]-->\*13.\*   <!--\\[endif]-->\*Die Massnahmen zum Klimaschutz sind bindend und kontinuierlich umzusetzen.\*
+<!--\\\[if !supportLists]-->\\*13.\\*   <!--\\\[endif]-->\\*Die Massnahmen zum Klimaschutz sind bindend und kontinuierlich umzusetzen.\\*
 
-<!--\\[if !supportLists]-->\*14.\*   <!--\\[endif]-->\*Das Leben unter Wasser soll nachhaltig geschützt werden.\*
+<!--\\\[if !supportLists]-->\\*14.\\*   <!--\\\[endif]-->\\*Das Leben unter Wasser soll nachhaltig geschützt werden.\\*
 
-<!--\\[if !supportLists]-->\*15.\*   <!--\\[endif]-->\*Das Leben an Land soll nachhaltig geschützt werden.\*
+<!--\\\[if !supportLists]-->\\*15.\\*   <!--\\\[endif]-->\\*Das Leben an Land soll nachhaltig geschützt werden.\\*
 
-<!--\\[if !supportLists]-->\*16.\*   <!--\\[endif]-->\*Frieden, Gerechtigkeit und starke Institutionen sollen langfristig aufgebaut werden.\*
+<!--\\\[if !supportLists]-->\\*16.\\*   <!--\\\[endif]-->\\*Frieden, Gerechtigkeit und starke Institutionen sollen langfristig aufgebaut werden.\\*
 
-<!--\\[if !supportLists]-->\*17.\*   <!--\\[endif]-->\*Es sollen Globale Partnerschaften zur Erreichung der Ziele aufgebaut werden.\*
+<!--\\\[if !supportLists]-->\\*17.\\*   <!--\\\[endif]-->\\*Es sollen Globale Partnerschaften zur Erreichung der Ziele aufgebaut werden.\\*
 
 «Als lebenswert wird bezeichnet, wenn ökologische und soziale Grundlagen erfüllt sind.\
 Als lebensfähig wird bezeichnet, wenn ökologische und ökonomische Grundlagen erfüllt sind.\
