@@ -684,33 +684,33 @@ Die Beratungsfirma engageability unterstützt Firmen, Regierungsorganisationen, 
 
 3. Gesundheit und Wohlergehen soll ein Gut sein, worauf alle Menschen ein Recht haben.
 
-<!--\\\[if !supportLists]-->\\*4.\\*        <!--\\\[endif]-->\\*Hochwertige Bildung soll für alle Menschen auf der Welt zugänglich sein.\\*
+4. Hochwertige Bildung soll für alle Menschen auf der Welt zugänglich sein.
 
-<!--\\\[if !supportLists]-->\\*5.\\*        <!--\\\[endif]-->\\*Geschlechtergleichheit soll überall auf der Welt gelten.\\*
+5. Geschlechtergleichheit soll überall auf der Welt gelten.
 
-<!--\\\[if !supportLists]-->\\*6.\\*        <!--\\\[endif]-->\\*Jeder Mensch soll Zugang zu Sauberem Grundwasser und zu sauberen Sanitäranlagen haben.\\*
+6. Jeder Mensch soll Zugang zu Sauberem Grundwasser und zu sauberen Sanitäranlagen haben.
 
-<!--\\\[if !supportLists]-->\\*7.\\*        <!--\\\[endif]-->\\*Saubere Energie soll für alle Menschen bezahlbar sein.\\*
+7. Saubere Energie soll für alle Menschen bezahlbar sein.
 
-<!--\\\[if !supportLists]-->\\*8.\\*        <!--\\\[endif]-->\\*Menschenwürdige Arbeit und Wirtschaftswachstum soll für jeden Menschen und in allen Regionen auf der Welt umsetzbar sein.\\*
+8. Menschenwürdige Arbeit und Wirtschaftswachstum soll für jeden Menschen und in allen Regionen auf der Welt umsetzbar sein.
 
-<!--\\\[if !supportLists]-->\\*9.\\*        <!--\\\[endif]-->\\*Industrie, Innovation und Infrastruktur sollen auf Nachhaltigkeit ausgerichtet sein.\\*
+9. Industrie, Innovation und Infrastruktur sollen auf Nachhaltigkeit ausgerichtet sein.
 
-<!--\\\[if !supportLists]-->\\*10.\\*   <!--\\\[endif]-->\\*Es soll global weniger Ungleichheit geben.\\*
+10. Es soll global weniger Ungleichheit geben.
 
-<!--\\\[if !supportLists]-->\\*11.\\*   <!--\\\[endif]-->\\*Es sollen nachhaltige Städte und Gemeinden gebaut werden.\\*
+11. Es sollen nachhaltige Städte und Gemeinden gebaut werden.
 
-<!--\\\[if !supportLists]-->\\*12.\\*   <!--\\\[endif]-->\\*Verantwortungsvolle Konsum- und Produktionsmuster\\*
+12. Verantwortungsvolle Konsum- und Produktionsmuster
 
-<!--\\\[if !supportLists]-->\\*13.\\*   <!--\\\[endif]-->\\*Die Massnahmen zum Klimaschutz sind bindend und kontinuierlich umzusetzen.\\*
+13. Die Massnahmen zum Klimaschutz sind bindend und kontinuierlich umzusetzen.
 
-<!--\\\[if !supportLists]-->\\*14.\\*   <!--\\\[endif]-->\\*Das Leben unter Wasser soll nachhaltig geschützt werden.\\*
+14. Das Leben unter Wasser soll nachhaltig geschützt werden.
 
-<!--\\\[if !supportLists]-->\\*15.\\*   <!--\\\[endif]-->\\*Das Leben an Land soll nachhaltig geschützt werden.\\*
+15. Das Leben an Land soll nachhaltig geschützt werden.
 
-<!--\\\[if !supportLists]-->\\*16.\\*   <!--\\\[endif]-->\\*Frieden, Gerechtigkeit und starke Institutionen sollen langfristig aufgebaut werden.\\*
+16. Frieden, Gerechtigkeit und starke Institutionen sollen langfristig aufgebaut werden.
 
-<!--\\\[if !supportLists]-->\\*17.\\*   <!--\\\[endif]-->\\*Es sollen Globale Partnerschaften zur Erreichung der Ziele aufgebaut werden.\\*
+17. Es sollen Globale Partnerschaften zur Erreichung der Ziele aufgebaut werden.
 
 «Als lebenswert wird bezeichnet, wenn ökologische und soziale Grundlagen erfüllt sind.\
 Als lebensfähig wird bezeichnet, wenn ökologische und ökonomische Grundlagen erfüllt sind.\
