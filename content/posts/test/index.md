@@ -3,6 +3,7 @@ title = "Nachhaltigkeit und Kreislaufwirtschaft"
 date = "2024-04-28"
 draft = false
 pinned = false
+image = "csm_regenwald-amazonas-ww2134856-c-luis-barreto-wwf-uk_59740a3515.jpg"
 +++
 <!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
