@@ -3,6 +3,7 @@ title = "Was können wir tun, damit auch nachfolgende Generationen ein gutes Leb
 date = "2024-06-10"
 draft = false
 pinned = false
+image = "grand-canyon-photo-travel-guide.jpg"
 +++
 <!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
