@@ -5,13 +5,13 @@ draft = false
 pinned = false
 image = "grand-canyon-photo-travel-guide.jpg"
 +++
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ image = "grand-canyon-photo-travel-guide.jpg"
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -632,9 +632,9 @@ image = "grand-canyon-photo-travel-guide.jpg"
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -661,11 +661,13 @@ image = "grand-canyon-photo-travel-guide.jpg"
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
-**Extreme Hitzewellen, Überschwemmung, Gletscherschmelzen, grossflächige Waldbrände, Dürren; diese Schlagwörter schiessen durch meinen Kopf, währenddessen ich die Treppen zu den Büroräumlichkeiten der Nachhaltigkeits-Beratungsfirma engageability hochsteige.** Die Firma engageability befindet sich mitten in Zürich, etwas oberhalb vom Niederdorf, unmittelbar neben dem Kunsthaus. Die weisse Fassade dieses Gebäudes scheint von aussen eher unscheinbar, nicht wie ein typisches Bürogebäude, sondern eher wie ein Wohnhaus mit seinen Fensterläden und einem kleinen Balkon. Im Quartier herrscht eine kreative und künstlerische Stimmung, engageability hätte ihren Standort nicht besser wählen können. An diesem verregneten Tag zieht es mich rasch wieder ins Trockene, heute bin ich hergekommen, um mir ein Bild vor Ort zu machen. Diesen Abstecher zu engageability verbinde ich mit einem Ausflug nach Zürich.
+**Extreme Hitzewellen, Überschwemmung, Gletscherschmelzen, grossflächige Waldbrände, Dürren; diese Schlagwörter schiessen durch meinen Kopf, währenddessen ich die Treppen zu den Büroräumlichkeiten der Nachhaltigkeits-Beratungsfirma engageability hochsteige.**
+
+Die Firma engageability befindet sich mitten in Zürich, etwas oberhalb vom Niederdorf, unmittelbar neben dem Kunsthaus. Die weisse Fassade dieses Gebäudes scheint von aussen eher unscheinbar, nicht wie ein typisches Bürogebäude, sondern eher wie ein Wohnhaus mit seinen Fensterläden und einem kleinen Balkon. Im Quartier herrscht eine kreative und künstlerische Stimmung, engageability hätte ihren Standort nicht besser wählen können. An diesem verregneten Tag zieht es mich rasch wieder ins Trockene, heute bin ich hergekommen, um mir ein Bild vor Ort zu machen. Diesen Abstecher zu engageability verbinde ich mit einem Ausflug nach Zürich.
 
 **Die Tätigkeit von engageability**
 
