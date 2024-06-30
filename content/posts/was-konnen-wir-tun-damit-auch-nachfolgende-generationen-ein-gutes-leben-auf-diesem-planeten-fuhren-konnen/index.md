@@ -1,17 +1,17 @@
 +++
-title = "Was können wir tun, damit auch nachfolgende Generationen ein gutes Leben auf diesem Planeten führen können?"
+title = "Unser Planet soll auch für nachfolgende Generationen lebenswert sein!"
 date = "2024-06-10"
 draft = false
 pinned = false
 image = "grand-canyon-photo-travel-guide.jpg"
 +++
-<!--\\\[if gte mso 9]><xml>
+<!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\[endif]-->
+</xml><!\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ image = "grand-canyon-photo-travel-guide.jpg"
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\[endif]-->
+</xml><!\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -632,9 +632,9 @@ image = "grand-canyon-photo-travel-guide.jpg"
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\[endif]-->
+</xml><!\[endif]-->
 
-<!--\\\[if gte mso 10]>
+<!--\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -661,96 +661,53 @@ image = "grand-canyon-photo-travel-guide.jpg"
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\[endif]-->
+<!\[endif]-->
 
 <!--StartFragment-->
 
-**Extreme Hitzewellen, Überschwemmung, Gletscherschmelzen, grossflächige Waldbrände, Dürren; diese Schlagwörter schiessen durch meinen Kopf, währenddessen ich die Treppen zu den Büroräumlichkeiten der Nachhaltigkeits-Beratungsfirma engageability hochsteige.**
-
- Die Firma engageability sich mitten in Zürich, etwas oberhalb vom Niederdorf, unmittelbar neben dem Kunsthaus befindet. Die weisse Fassade dieses Gebäudes scheint von aussen eher unscheinbar, nicht wie ein typisches Bürogebäude, sondern eher wie ein Wohnhaus mit seinen Fensterläden und einem kleinen Balkon. Im Quartier herrscht eine kreative und künstlerische Stimmung, engageability hätte ihren Standort nicht besser wählen können. An diesem verregneten Tag zieht es mich rasch wieder ins Trockene, heute bin ich hergekommen, um mir ein Bild vor Ort zu machen. Diesen Abstecher zu engageability verbinde ich mit einem Ausflug nach Zürich.
+**Extreme Hitzewellen, Überschwemmung, Gletscherschmelzen, grossflächige Waldbrände, Dürren; diese Schlagwörter schiessen durch meinen Kopf, währenddessen ich die Treppen zu den Büroräumlichkeiten der Nachhaltigkeits-Beratungsfirma engageability hochsteige.** Die Firma engageability befindet sich mitten in Zürich, etwas oberhalb vom Niederdorf, unmittelbar neben dem Kunsthaus. Die weisse Fassade dieses Gebäudes scheint von aussen eher unscheinbar, nicht wie ein typisches Bürogebäude, sondern eher wie ein Wohnhaus mit seinen Fensterläden und einem kleinen Balkon. Im Quartier herrscht eine kreative und künstlerische Stimmung, engageability hätte ihren Standort nicht besser wählen können. An diesem verregneten Tag zieht es mich rasch wieder ins Trockene, heute bin ich hergekommen, um mir ein Bild vor Ort zu machen. Diesen Abstecher zu engageability verbinde ich mit einem Ausflug nach Zürich.
 
 **Die Tätigkeit von engageability**
 
-Die Beratungsfirma engageability unterstützt Firmen, Regierungsorganisationen, Nicht-Regierungs-Organisationen (NGOs Non-Gouvernemental-Organisation) sowie andere Institutionen dabei im Zusammenhang mit Nachhaltigkeit ihre Ausgangslage zu analysieren, sie in ihrer Nachhaltigkeitszieldefinition und deren Umsetzung zu beraten. Dass es so viele unterschiedliche Ansprechpartner gibt, die in diesem Bereich involviert sind, war mir zuvor gar nicht bewusst. «Im Beratungsteam teilen wir die Beratungsschwerpunkte in unsere Spezialgebete auf, um unsere Partner zielgerichtet beraten zu können», erklärt mir Janine Baumann.
+Die Beratungsfirma engageability unterstützt Firmen, Regierungsorganisationen, Nicht-Regierungs-Organisationen (NGOs Non-Gouvernemental-Organisation) sowie andere Institutionen dabei, im Zusammenhang mit Nachhaltigkeit ihre Ausgangslage zu analysieren, sowie sie in ihrer Nachhaltigkeitszieldefinition und deren Umsetzung zu beraten. Ich bin erstaunt, dass es so viele unterschiedliche Ansprechpartner gibt, die in diesem Bereich involviert sind. «Im Beratungsteam teilen wir die Beratungsschwerpunkte in unsere Spezialgebete auf, um unsere Partner zielgerichtet beraten zu können», erklärt Janine Baumann.
 
 **Was bedeutet Nachhaltigkeit?**
 
-«Nachhaltigkeit bedeutet verantwortungsbewusstes Handeln und verantwortungsbewusst mit den Ressourcen der Erde umzugehen» fasst Janine Baumann zu Beginn unseres Gesprächs zusammen. Die UNO, die United Nations Organization, hat in diesem Zusammenhang 17 Hauptziele in Nachhaltigke it definiert. Diese 17 Ziele können innerhalb eines Nachhaltigkeitsdreiecks aufgeteilt werden in Umwelt (Ökologie), Wirtschaft (Ökonomie) und Gesellschaft (Soziales). Diese drei Hauptthemen stehen in einer Wechselwirkung und sind abhängig voneinander. Das Hauptziel ist, eine faire Lebensgrundlage für die jetzige und künftige Generationen zu gewährleisten. Bis jetzt habe ich beim Wort Nachhaltigkeit immer gleich an Solar- und Windstrom, an regionales Biogemüse oder an seltene Flugreisen gedacht. Dass es auch um soziale Themen geht, fasziniert mich und ich finde es genauso wichtig.
+«Nachhaltigkeit bedeutet verantwortungsbewusstes Handeln und verantwortungsbewusst mit den Ressourcen der Erde umzugehen», fasst Janine Baumann zusammen. Die UNO, die United Nations Organization, hat in diesem Zusammenhang 17 Hauptziele in Nachhaltigkeit definiert. Diese 17 Ziele können innerhalb eines Nachhaltigkeitsdreiecks aufgeteilt werden in Umwelt (Ökologie), Wirtschaft (Ökonomie) und Gesellschaft (Soziales). Diese drei Hauptthemen stehen in einer Wechselwirkung und sind abhängig voneinander. Das Hauptziel ist, eine faire Lebensgrundlage für die jetzige und künftige Generationen zu gewährleisten. Man denkt beim Wort Nachhaltigkeit immer gleich an Solar- und Windstrom, an regionales Biogemüse oder an seltene Flugreisen. Dass es auch um soziale Themen geht, ist faszinierend und genauso wichtig.
 
-*Die folgenden Ziele wurden von der Uno für die Agenda 2030 verabschiedet:*
+«Als lebenswert wird bezeichnet, wenn ökologische und soziale Grundlagen erfüllt sind. Als lebensfähig wird bezeichnet, wenn ökologische und ökonomische Grundlagen erfüllt sind. Als fair wird bezeichnet, wenn soziale und ökonomische Grundlagen erfüllt sind».
 
-1. Es soll nirgendwo strukturelle Armut herrschen.
+> ***"Nachhaltigkeit bedeutet verantwortungsbewusstes Handeln und verantwortungsbewusst mit den Ressourcen der Erde umzugehen."***
 
-2. Es soll nirgendwo auf der Welt Menschen und Völker geben, die unter Hunger leiden.
 
-3. Gesundheit und Wohlergehen soll ein Gut sein, worauf alle Menschen ein Recht haben.
 
-4. Hochwertige Bildung soll für alle Menschen auf der Welt zugänglich sein.
-
-5. Geschlechtergleichheit soll überall auf der Welt gelten.
-
-6. Jeder Mensch soll Zugang zu Sauberem Grundwasser und zu sauberen Sanitäranlagen haben.
-
-7. Saubere Energie soll für alle Menschen bezahlbar sein.
-
-8. Menschenwürdige Arbeit und Wirtschaftswachstum soll für jeden Menschen und in allen Regionen auf der Welt umsetzbar sein.
-
-9. Industrie, Innovation und Infrastruktur sollen auf Nachhaltigkeit ausgerichtet sein.
-
-10. Es soll global weniger Ungleichheit geben.
-
-11. Es sollen nachhaltige Städte und Gemeinden gebaut werden.
-
-12. Verantwortungsvolle Konsum- und Produktionsmuster
-
-13. Die Massnahmen zum Klimaschutz sind bindend und kontinuierlich umzusetzen.
-
-14. Das Leben unter Wasser soll nachhaltig geschützt werden.
-
-15. Das Leben an Land soll nachhaltig geschützt werden.
-
-16. Frieden, Gerechtigkeit und starke Institutionen sollen langfristig aufgebaut werden.
-
-17. Es sollen Globale Partnerschaften zur Erreichung der Ziele aufgebaut werden.
-
-«Als lebenswert wird bezeichnet, wenn ökologische und soziale Grundlagen erfüllt sind.\
-Als lebensfähig wird bezeichnet, wenn ökologische und ökonomische Grundlagen erfüllt sind.\
-Als fair wird bezeichnet, wenn soziale und ökonomische Grundlagen erfüllt sind» erfahre ich im Gespräch.\
-\
 **Ökologie**
 
-In der Ökologie geht es vor allem um den Klimaschutz, den Ressourcenschutz und die Artenvielfalt. Der Klimaschutz befasst sich mit der Reduzierung von Risiken für Mensch und Umwelt, die Reduktion von schädlichen Emissionen, schonende Ressourcennutzung, Nutzung von erneuerbaren Energieformen, Artenschutz und Lebensraumsicherung. Als Ressourcen sollen Holz, Wasser, Kohle und Erdöl für nachfolgende Generationen bewahrt werden. Verunreinigung der Umwelt durch Abgase, Schmutzwasser oder Gifte sollen vermieden werden und stattdessen wird auf faire Produktion und lange Haltbarkeit geachtet. «Zum Beispiel als ökologischer Anbau von Lebensmitteln durch Vermeidung von Pestiziden und fairer Tierhaltung sowie sauberes Grundwasser zu schützen», so Janine Baumann. Es soll also ein stabiles Gleichgewicht in der Natur erhalten bleiben. «Nicht mehr Bäume fällen als nachwachsen können», soll Hans Carl von Carlowitz bereits vor ca. 300 Jahren gesagt haben. Ich bin erstaunt, dass Nachhaltigkeit schon länger als die letzten dreissig Jahre ein Thema ist.
+In der Ökologie geht es vor allem um den Klimaschutz, den Ressourcenschutz und die Artenvielfalt. Der Klimaschutz befasst sich mit der Reduzierung von Risiken für Mensch und Umwelt, die Reduktion von schädlichen Emissionen, schonende Ressourcennutzung, Nutzung von erneuerbaren Energieformen, Artenschutz und Lebensraumsicherung. Als Ressourcen sollen Holz, Wasser, Kohle und Erdöl für nachfolgende Generationen bewahrt werden. Verunreinigung der Umwelt durch Abgase, Schmutzwasser oder Gifte sollen vermieden werden und stattdessen wird auf faire Produktion und lange Haltbarkeit geachtet. «Zum Beispiel als ökologischer Anbau von Lebensmitteln durch Vermeidung von Pestiziden und fairer Tierhaltung sowie sauberes Grundwasser zu schützen», so Janine Baumann. Es soll also ein stabiles Gleichgewicht in der Natur erhalten bleiben. «Nicht mehr Bäume fällen, als nachwachsen können», soll Hans Carl von Carlowitz bereits vor ca. 300 Jahren gesagt haben. Es ist beeindruckend, dass Nachhaltigkeit schon länger als die letzten dreissig Jahre ein Thema ist.
 
 **Ökonomie**
 
-Das Ziel in der Ökonomie ist das langfristige Fortbestehen einer Wirtschaft, die Vermeidung von reiner Profitmaximierung sowie die Vermeidung von Profit zu Lasten des Wohlbefindens der Mitarbeiter und nicht zuletzt die Reduzierung von Energieverbrauch durch die Nutzung von alternativen Energien und bewusster Umgang mit Ressourcen. Ich zweifle daran, dass dies im internationalen Wettbewerb jemals nur annähernd flächendeckend umgesetzt werden kann.
+Das Ziel in der Ökonomie ist das langfristige Fortbestehen einer Wirtschaft, die Vermeidung von reiner Profitmaximierung sowie die Vermeidung von Profit zu Lasten des Wohlbefindens der Mitarbeiter und nicht zuletzt die Reduzierung von Energieverbrauch durch die Nutzung von alternativen Energien und bewusster Umgang mit Ressourcen. Es scheint eine grosse Herausforderung zu sein, dies International umzusetzen.
 
 **Soziales**
 
-Die Sozialen Ziele verlangen einen verantwortungsvollen Umgang gegenüber allen Menschen durch Chancengleichheit und Gleichberechtigung, durch die Befriedigung der Grundbedürfnisse, durch das Recht auf Bildung und durch die Schaffung von fairen Arbeitsplätzen. Ausserdem soll der Zugang zu medizinischer Versorgung für alle Menschen gewährleistet sein. Die sozialen Ziele verlangen die Bekämpfung von Armut, damit der Wohlstand global gerecht verteilt wird sowie eine finanzielle Absicherung für Ältere und Kranke. Als Europäer wird mir hier erneut bewusst, dass unsere Sicherheit und unser Wohlstand keine Selbstverständlichkeit sind.
+Die sozialen Ziele verlangen einen verantwortungsvollen Umgang gegenüber allen Menschen durch Chancengleichheit und Gleichberechtigung durch die Befriedigung der Grundbedürfnisse, durch das Recht auf Bildung und durch die Schaffung von fairen Arbeitsplätzen. Ausserdem soll der Zugang zu medizinischer Versorgung für alle Menschen gewährleistet sein. Die sozialen Ziele verlangen die Bekämpfung von Armut, damit der Wohlstand global gerecht verteilt wird, sowie eine finanzielle Absicherung für Ältere und Kranke. Die Sicherheit und der Wohlstand in Europa sind keine Selbstverständlichkeit.
 
+> ***"Soziale Nachhaltigkeit bedeutet, dass nicht nur im globalen Norden ein gutes Leben möglich ist, sondern auch im globalen Süden. In globalen Lieferketten müssen Menschenrechte und faire Arbeitsbedingungen eingehalten werden."***
+
+\
 **Kreislaufwirtschaft**
 
-Janine Baumann erklärt mir umfassend, was Kreislaufwirtschaft ist, welches ihre die Hauptziele sind: «Die Ziele der Kreislaufwirtschaft sind darauf ausgerichtet, möglichst wenig Rohstoffe zu verbrauchen und vorhandene Materialien wiederzuverwenden. Zum Beispiel durch Recycling (gebrauchte Gegenstände Sammeln, um sie in einem Produktionsverfahren neu aufzubereiten) und Upcycling (alte Gegenstände reparieren und verschönern)». Ich will es noch etwas genauer wissen und finde in meiner Recherche heraus, dass sich die Kreislaufwirtschaft mit den folgenden 6 Punkten auseinandersetzt:
-
-**Design:** Die Produkte sollen möglichst lange Nutzdauer haben.
-
-**Produktion:** Geschäftskooperationen ausbauen, um CO2 Ausstoss zu minimieren.
-
-**Vertrieb:** Lieferketten werden auf optimale Abläufe und unnötige Schlaufen optimiert.
-
-**Konsumentenverhalten:** Konsumenten achten darauf, nachhaltige Produkte zu nutzen.
-
-**Wiederverwendbarkeit und Reparatur:** Produzenten sind dafür verantwortlich, Rohstoffe wieder zu verwenden und dies aktiv zu koordinieren sowie den Reparaturservice zu gewährleisten.
-
-**Recycling:** Ein Unternehmen ist verantwortlich für standardisierte Recycling -Prozesse.
+Janine Baumann erklärt umfassend, was Kreislaufwirtschaft ist, und welches ihre Hauptziele sind: «Die Ziele der Kreislaufwirtschaft sind darauf ausgerichtet, möglichst wenig Rohstoffe zu verbrauchen und vorhandene Materialien wiederzuverwenden. Zum Beispiel durch Recycling (gebrauchte Gegenstände Sammeln, um sie in einem Produktionsverfahren neu aufzubereiten) und Upcycling (alte Gegenstände reparieren und verschönern)». Beim Design muss modular gebaut werden, um die Nutzdauer durch Reparaturen und Ersatzteile verlängern zu können. Bei den Lieferketten sollen optimale Abläufe geplant werden, um unnötige Schlaufen zu vermeiden. Die Konsumenten haben auch ihren Einfluss, sie können darauf achten, nachhaltige Produkte zu nutzen.
 
 Mir wird bewusst, dass nicht nur eine einzelne Firma, sondern viele Firmen und Institutionen zuerst in neue Verfahren und Prozesse und sicher auch in Mitarbeiter-Schulungen investieren müssen, um diese Veränderung voranzutreiben. Es braucht daher nicht nur ein Umdenken in der Gesellschaft, sondern auch staatliche finanzielle Unterstützungen für Firmen und Institutionen und entsprechende Gesetzte, damit die Veränderung auch nachhaltig umgesetzt wird.\
 \
-Auf dem Rückweg erinnere ich mich nochmals an unser lehrreiches und inspirierendes Gespräch; es war eine sehr freundliche und offene Gesprächsatmosphäre. Extreme Hitzewellen, Überschwemmung, Gletscherschmelzen, grossflächige Waldbrände, Dürren; sind Themen, die unsere gesamte Gesellschaft betreffen und mit denen wir uns ohne zeitlichen Verzug auseinandersetzen müssen. Die Tatsache, dass es bereits jetzt viele konkrete Massnahmen und viele innovative Lösungen gibt, stimmt mich zuversichtlich. Mit Forschung, Gesetzgebung, Technologie und dem Willen der Gesellschaft, diesen Wandel gemeinsam zu meistern, erkenne ich praktische Lösungen, die dazu führen können, dass auch künftige Generationen auf diesem Planeten unter gesunden Bedingungen leben können.
+Extreme Hitzewellen, Überschwemmung, Gletscherschmelzen, grossflächige Waldbrände und Dürren; sind Themen, die unsere gesamte Gesellschaft betreffen und mit denen wir uns ohne zeitlichen Verzug auseinandersetzen müssen. Die Tatsache, dass es bereits jetzt viele konkrete Massnahmen und viele innovative Lösungen gibt, stimmt mich zuversichtlich. Mit Forschung, Gesetzgebung, Technologie und dem Willen der Gesellschaft, diesen Wandel gemeinsam zu meistern, erkenne ich praktische Lösungen, die dazu führen können, dass auch künftige Generationen auf diesem Planeten unter gesunden Bedingungen leben können.
+
+<!--EndFragment-->
 
 ![Bild: Janine Baumann, Quelle: https://engageability.ch/about-us/#team](janine-baumann.png "Bild: Janine Baumann, Quelle: https://engageability.ch/about-us/#team")
 
-Janine Baumann, Studentin im Master Circular Innovation and Sustainability an der Berner Fachhochschule und Mitarbeiterin bei Engageability, einer Nachhaltigkeitsberatungsfirma in Zürich. Sie setzt sich beruflich und privat dafür ein, konkrete nachhaltige Lösungen für zukünftige Generationen zu finden.
+Janine Baumann studiert im Master Circular Innovation and Sustainability an der Berner Fachhochschule und engagiert sich als Mitarbeiterin bei Engageability, einer Nachhaltigkeitsberatungsfirma in Zürich. Sie setzt sich beruflich und privat dafür ein, konkrete nachhaltige Lösungen für zukünftige Generationen zu finden.
 
 <!--EndFragment-->
