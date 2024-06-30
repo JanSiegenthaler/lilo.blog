@@ -5,13 +5,13 @@ draft = false
 pinned = false
 image = "grand-canyon-photo-travel-guide.jpg"
 +++
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ image = "grand-canyon-photo-travel-guide.jpg"
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -632,9 +632,9 @@ image = "grand-canyon-photo-travel-guide.jpg"
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -661,7 +661,7 @@ image = "grand-canyon-photo-travel-guide.jpg"
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -669,7 +669,7 @@ image = "grand-canyon-photo-travel-guide.jpg"
 
 **Die Tätigkeit von engageability**
 
-Die Beratungsfirma engageability unterstützt Firmen, Regierungsorganisationen, Nicht-Regierungs-Organisationen (NGOs Non-Gouvernemental-Organisation) sowie andere Institutionen dabei, im Zusammenhang mit Nachhaltigkeit ihre Ausgangslage zu analysieren, sowie sie in ihrer Nachhaltigkeitszieldefinition und deren Umsetzung zu beraten. Ich bin erstaunt, dass es so viele unterschiedliche Ansprechpartner gibt, die in diesem Bereich involviert sind. «Im Beratungsteam teilen wir die Beratungsschwerpunkte in unsere Spezialgebete auf, um unsere Partner zielgerichtet beraten zu können», erklärt Janine Baumann.
+Die Beratungsfirma engageability unterstützt Firmen, Regierungsorganisationen, Nicht-Regierungs-Organisationen (NGOs Non-Gouvernemental-Organisation) sowie andere Institutionen dabei, im Zusammenhang mit Nachhaltigkeit ihre Ausgangslage zu analysieren, sowie sie in ihrer Nachhaltigkeitszieldefinition und deren Umsetzung zu beraten. Erstaunlich, dass es so viele unterschiedliche Ansprechpartner gibt, die in diesem Bereich involviert sind. «Im Beratungsteam teilen wir die Beratungsschwerpunkte in unsere Spezialgebete auf, um unsere Partner zielgerichtet beraten zu können», erklärt Janine Baumann.
 
 **Was bedeutet Nachhaltigkeit?**
 
@@ -678,8 +678,6 @@ Die Beratungsfirma engageability unterstützt Firmen, Regierungsorganisationen, 
 «Als lebenswert wird bezeichnet, wenn ökologische und soziale Grundlagen erfüllt sind. Als lebensfähig wird bezeichnet, wenn ökologische und ökonomische Grundlagen erfüllt sind. Als fair wird bezeichnet, wenn soziale und ökonomische Grundlagen erfüllt sind».
 
 > ***"Nachhaltigkeit bedeutet verantwortungsbewusstes Handeln und verantwortungsbewusst mit den Ressourcen der Erde umzugehen."***
-
-
 
 **Ökologie**
 
